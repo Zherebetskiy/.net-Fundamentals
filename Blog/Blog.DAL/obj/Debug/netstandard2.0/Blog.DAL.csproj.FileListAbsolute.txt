@@ -1,0 +1,9 @@
+C:\Users\zhere\source\repos\Blog\Blog.DAL\bin\Debug\netstandard2.0\Blog.DAL.deps.json
+C:\Users\zhere\source\repos\Blog\Blog.DAL\bin\Debug\netstandard2.0\Blog.DAL.dll
+C:\Users\zhere\source\repos\Blog\Blog.DAL\obj\Debug\netstandard2.0\Blog.DAL.csprojAssemblyReference.cache
+C:\Users\zhere\source\repos\Blog\Blog.DAL\obj\Debug\netstandard2.0\Blog.DAL.csproj.CoreCompileInputs.cache
+C:\Users\zhere\source\repos\Blog\Blog.DAL\obj\Debug\netstandard2.0\Blog.DAL.AssemblyInfoInputs.cache
+C:\Users\zhere\source\repos\Blog\Blog.DAL\obj\Debug\netstandard2.0\Blog.DAL.AssemblyInfo.cs
+C:\Users\zhere\source\repos\Blog\Blog.DAL\bin\Debug\netstandard2.0\Blog.DAL.pdb
+C:\Users\zhere\source\repos\Blog\Blog.DAL\obj\Debug\netstandard2.0\Blog.DAL.dll
+C:\Users\zhere\source\repos\Blog\Blog.DAL\obj\Debug\netstandard2.0\Blog.DAL.pdb
