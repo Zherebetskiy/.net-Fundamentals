@@ -3,6 +3,7 @@ using Blog.BusinessLogic.Interfaces;
 using Blog.DAL.Interfaces;
 using System.Collections.Generic;
 using System.Linq;
+using Blog.Abstractions.Specifications;
 
 namespace Blog.BusinessLogic.Services
 {
@@ -24,7 +25,11 @@ namespace Blog.BusinessLogic.Services
 
         public Article GetArticleByTitle(string title)
         {
-            return articles.Where(article => article.Title == title).FirstOrDefault();
+            var articleSpecification = new GetArticleSpecification(title);
+           // bool isOk = articleSpecification.IsSatisfiedBy(article);//?????
+            Article article = unitOfWork.Set<Article>().Find(articleSpecification);
+
+            return article;
         }
 
         public ICollection<Article> GetArticleByTag(string tag)

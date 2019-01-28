@@ -1,5 +1,7 @@
-﻿using Blog.DAL.Interfaces;
+﻿using Blog.Abstractions;
+using Blog.DAL.Interfaces;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Blog.DAL
 {
@@ -37,6 +39,13 @@ namespace Blog.DAL
         {
             context.Set<T>().Attach(entity);
             context.Entry(entity).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
-        }   
+        }
+
+        public T Find(Specification<T> specification)
+        {          
+                return context.Set<T>()
+                    .Where(specification.ToExpression())
+                    .ToList().FirstOrDefault();           
+        }
     }
 }
