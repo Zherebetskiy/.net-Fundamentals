@@ -1,4 +1,4 @@
-﻿using Blog.DAL.Models;
+﻿using Blog.Abstractions.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace Blog.DAL

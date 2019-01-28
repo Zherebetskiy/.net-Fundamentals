@@ -1,4 +1,4 @@
-﻿using Blog.DAL.Models;
+﻿using Blog.Abstractions.Models;
 using System.Collections.Generic;
 
 namespace Blog.BusinessLogic.Interfaces

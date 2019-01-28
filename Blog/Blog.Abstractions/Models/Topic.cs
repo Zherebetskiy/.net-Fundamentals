@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Blog.DAL.Models
+namespace Blog.Abstractions.Models
 {
     public class Topic
     {

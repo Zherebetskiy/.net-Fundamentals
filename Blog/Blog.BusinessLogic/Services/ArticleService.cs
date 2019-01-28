@@ -1,6 +1,6 @@
-﻿using Blog.BusinessLogic.Interfaces;
+﻿using Blog.Abstractions.Models;
+using Blog.BusinessLogic.Interfaces;
 using Blog.DAL.Interfaces;
-using Blog.DAL.Models;
 using System.Collections.Generic;
 using System.Linq;
 
