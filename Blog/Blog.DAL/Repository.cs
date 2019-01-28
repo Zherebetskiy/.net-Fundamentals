@@ -41,11 +41,19 @@ namespace Blog.DAL
             context.Entry(entity).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
         }
 
-        public T Find(Specification<T> specification)
+        public IReadOnlyList<T> Find(Specification<T> specification)
         {          
-                return context.Set<T>()
-                    .Where(specification.ToExpression())
-                    .ToList().FirstOrDefault();           
+            var res = new List<T>();
+
+            foreach (var item in context.Set<T>())
+            {
+                if (specification.IsSatisfiedBy(item))
+                {
+                    res.Add(item);
+                }            
+            }
+
+            return res;
         }
     }
 }

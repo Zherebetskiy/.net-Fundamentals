@@ -23,21 +23,20 @@ namespace Blog.BusinessLogic.Services
             unitOfWork.Set<Article>().Create(article);
         }
 
-        public Article GetArticleByTitle(string title)
+        public ICollection<Article> GetArticlesByTitle(string title)
         {
             var articleSpecification = new GetArticleSpecification(title);
-           // bool isOk = articleSpecification.IsSatisfiedBy(article);//?????
-            Article article = unitOfWork.Set<Article>().Find(articleSpecification);
+            var article = unitOfWork.Set<Article>().Find(articleSpecification);
 
-            return article;
+            return (ICollection<Article>)article;
         }
 
-        public ICollection<Article> GetArticleByTag(string tag)
+        public ICollection<Article> GetArticlesByTag(string tag)
         {
             return (ICollection<Article>)articles.Where(article => !string.IsNullOrEmpty(article.Tags.FirstOrDefault(t => t == tag)));
         }
 
-        public ICollection<Article> GetMostRatedArticle()
+        public ICollection<Article> GetMostRatedArticles()
         {
             return (ICollection<Article>)articles.OrderByDescending(article => article.Likes).Take(10);    
         }

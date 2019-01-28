@@ -1,5 +1,6 @@
 ﻿using Blog.Abstractions;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Blog.DAL.Interfaces
 {
@@ -7,7 +8,7 @@ namespace Blog.DAL.Interfaces
     {
         T GetById(int id);
 
-        T Find(Specification<T> specification);
+        IReadOnlyList<T> Find(Specification<T> specification);
 
         ICollection<T> Get();
 

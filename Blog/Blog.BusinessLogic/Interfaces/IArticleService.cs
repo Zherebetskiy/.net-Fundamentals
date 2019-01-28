@@ -5,9 +5,9 @@ namespace Blog.BusinessLogic.Interfaces
 {
     public interface IArticleService
     {
-        ICollection<Article> GetMostRatedArticle();
-        ICollection<Article> GetArticleByTag(string tag);
-        Article GetArticleByTitle(string title);
+        ICollection<Article> GetMostRatedArticles();
+        ICollection<Article> GetArticlesByTag(string tag);
+        ICollection<Article> GetArticlesByTitle(string title);
         void UpdateArticle(int id, Article article);
         void Create(Article article);
     }
