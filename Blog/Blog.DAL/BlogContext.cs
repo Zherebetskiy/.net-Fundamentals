@@ -12,5 +12,13 @@ namespace Blog.DAL
         public DbSet<User> Users { get; set; }
         public DbSet<Topic> Topics { get; set; }
         public DbSet<Article> Articles { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Article>()
+                .HasOne(a => a.Topic)
+                .WithMany(t => t.Articles)
+                .OnDelete(DeleteBehavior.Cascade);
+        }
     }
 }
