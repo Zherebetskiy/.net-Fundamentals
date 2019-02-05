@@ -2,10 +2,13 @@
 using Blog.DAL.Interfaces;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
+using Blog.Abstractions.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Blog.DAL
 {
-    public class Repository<T> : IRepository<T> where T : class
+    public class Repository<T> : IRepository<T> where T : BaseEntity
     {
         public readonly BlogContext context;
 
@@ -14,14 +17,9 @@ namespace Blog.DAL
             this.context = context;
         }
 
-        public virtual ICollection<T> Get()
+        public async Task<ICollection<T>> GetAsync()
         {
-            return (ICollection<T>)context.Set<T>();
-        }
-
-        public virtual T GetById(int id)
-        {
-            return context.Set<T>().Find(id);
+            return await context.Set<T>().ToListAsync();
         }
 
         public virtual void Create(T entity)
@@ -35,25 +33,20 @@ namespace Blog.DAL
             contextSet.Remove(contextSet.Find(id));
         }
 
-        public virtual void Update(int id, T entity)
+        public virtual void Update(T entity)
         {
             context.Set<T>().Attach(entity);
-            context.Entry(entity).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+            context.Entry(entity).State = EntityState.Modified;
         }
 
-        public IReadOnlyList<T> Find(Specification<T> specification)
+        public Task<IQueryable<T>> FindAsync(ISpecification<T> specification)
         {          
-            var res = new List<T>();
+            return context.Set<T>().Where(async (item) => await specification.IsSatisfiedByAsync(item));//????
+        }
 
-            foreach (var item in context.Set<T>())
-            {
-                if (specification.IsSatisfiedBy(item))
-                {
-                    res.Add(item);
-                }            
-            }
-
-            return res;
+        public async Task SaveChangesAsync()
+        {
+            await context.SaveChangesAsync();
         }
     }
 }

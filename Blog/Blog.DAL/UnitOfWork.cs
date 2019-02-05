@@ -1,4 +1,5 @@
-﻿using Blog.DAL.Interfaces;
+﻿using Blog.Abstractions.Models;
+using Blog.DAL.Interfaces;
 
 namespace Blog.DAL
 {
@@ -11,7 +12,7 @@ namespace Blog.DAL
             this.context = context;
         }
 
-        public IRepository<T> Set<T>() where T : class
+        public IRepository<T> Set<T>() where T : BaseEntity
         {
             return new Repository<T>(context);
         }

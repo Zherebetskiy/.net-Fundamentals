@@ -2,15 +2,14 @@
 
 namespace Blog.Abstractions.Models
 {
-    public class Article
+    public class Article : BaseEntity
     {
-        public int ArticleId { get; set; }
         public string Title { get; set; }
         public string Content { get; set; }
-        public ICollection<string> Tags { get; set; }
-        public User Owner { get; set; }
+        public ICollection<string> Tags { get; set; }        
         public int Likes { get; set; }
 
-        public Topic Topic { get; set; }
+        public virtual User Owner { get; set; }
+        public virtual Topic Topic { get; set; }
     }
 }
