@@ -44,9 +44,9 @@ namespace DotNetBlog.WebApplication
             services.AddDbContext<BlogContext>
                 (options => options.UseSqlServer(connection));
 
-            //services.AddScoped<IArticleService, ArticleService>();
-            //services.AddScoped<ITopicService, TopicService>();
-            //services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped<IArticleService, ArticleService>();
+            services.AddScoped<ITopicService, TopicService>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             //services.AddScoped(typeof(ISpecification<>), typeof(Specification<>));
         }
 

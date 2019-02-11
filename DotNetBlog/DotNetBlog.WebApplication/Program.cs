@@ -13,15 +13,16 @@ namespace DotNetBlog.WebApplication
 {
     public class Program
     {
+
         public static IConfiguration Configuration { get; } = new ConfigurationBuilder()
-        .SetBasePath(Directory.GetCurrentDirectory())
-        .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
-        .AddJsonFile($"appsettings.{Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") ?? "Production"}.json", optional: true)
-        .Build();
+           .SetBasePath(Directory.GetCurrentDirectory())
+           .AddJsonFile(@"D:\Projects\.net-Fundamentals\DotNetBlog\DotNetBlog.WebApplication\appsettings.json", optional: true, reloadOnChange: true)
+           .AddJsonFile($"appsettings.{Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") ?? "Production"}.json", optional: true)
+           .Build();
 
         public static void Main(string[] args)
-        {
-            Log.Logger = new LoggerConfiguration()
+        {          
+                Log.Logger = new LoggerConfiguration()
             .ReadFrom.Configuration(Configuration)
             .CreateLogger();
 

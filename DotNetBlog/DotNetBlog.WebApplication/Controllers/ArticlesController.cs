@@ -40,7 +40,7 @@ namespace DotNetBlog.WebApplication.Controllers
             var articles = await articleService.GetAsync();
 
             var article = articles.FirstOrDefault(m => m.Id == id);
-            Log.Information("Article name {@article} retrieved", article.Title);
+            Log.Information($"Article name {article.Title} retrieved");
             if (article == null)
             {
                 return NotFound();
