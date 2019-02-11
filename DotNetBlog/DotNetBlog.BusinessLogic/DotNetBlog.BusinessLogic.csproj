@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DotNetBlog.Abstractions\DotNetBlog.Abstractions.csproj" />
+    <ProjectReference Include="..\DotNetBlog.DAL\DotNetBlog.DAL.csproj" />
+  </ItemGroup>
+
+</Project>

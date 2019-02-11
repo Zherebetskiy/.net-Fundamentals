@@ -1,0 +1,1344 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CRM2011/Lebara.CRM2011.Common.Service/Lebara.CRM2011.Common.ServiceWebRole/obj
+/CRMLauncher/CRMLauncher/obj
+/TapConverter/TapConverter/obj/Release/TapConverter.csproj.CoreCompileInputs.cache
+/TapConverter/TapConverter/obj/Release
+/TapConverter/TapConverter/obj/Debug/TapConverter.csproj.CoreCompileInputs.cache
+/TapConverter/TapConverter/obj/Debug
+/TapConverter/TapConverter/obj
+/TapConverter/Tap311Decoder/obj/Release/Tap311Decoder.csproj.CoreCompileInputs.cache
+/TapConverter/Tap311Decoder/obj/Release
+/TapConverter/Tap311Decoder/obj/Debug/Tap311Decoder.csproj.CoreCompileInputs.cache
+/TapConverter/Tap311Decoder/obj/Debug
+/TapConverter/Tap311Decoder/obj
+/TapConverter/Tap310Decoder/obj/Release/Tap310Decoder.csproj.CoreCompileInputs.cache
+/TapConverter/Tap310Decoder/obj/Release
+/TapConverter/Tap310Decoder/obj/Debug/Tap310Decoder.csproj.CoreCompileInputs.cache
+/TapConverter/Tap310Decoder/obj/Debug
+/TapConverter/Tap310Decoder/obj
+/TapConverter/DALMySql/obj/Release/DALMySql.csproj.CoreCompileInputs.cache
+/TapConverter/DALMySql/obj/Release
+/TapConverter/DALMySql/obj/Debug/DALMySql.csproj.CoreCompileInputs.cache
+/TapConverter/DALMySql/obj/Debug
+/TapConverter/DALMySql/obj
+/TapConverter
+/PortInFreeSimOrder/Main/Lebara.PortInSimOrder.Utility/obj/Release/Lebara.PortInSimOrder.Utility.csproj.CoreCompileInputs.cache
+/PortInFreeSimOrder/Main/Lebara.PortInSimOrder.Utility/obj/Release
+/PortInFreeSimOrder/Main/Lebara.PortInSimOrder.Utility/obj/Debug/Lebara.PortInSimOrder.Utility.csproj.CoreCompileInputs.cache
+/PortInFreeSimOrder/Main/Lebara.PortInSimOrder.Utility/obj/Debug
+/PortInFreeSimOrder/Main/Lebara.PortInSimOrder.Utility/obj
+/PortInFreeSimOrder/BAU-branch/Lebara.PortInSimOrder.Utility/obj/Release/Lebara.PortInSimOrder.Utility.csproj.CoreCompileInputs.cache
+/PortInFreeSimOrder/BAU-branch/Lebara.PortInSimOrder.Utility/obj/Release
+/PortInFreeSimOrder/BAU-branch/Lebara.PortInSimOrder.Utility/obj/Debug/Lebara.PortInSimOrder.Utility.csproj.CoreCompileInputs.cache
+/PortInFreeSimOrder/BAU-branch/Lebara.PortInSimOrder.Utility/obj/Debug
+/PortInFreeSimOrder/BAU-branch/Lebara.PortInSimOrder.Utility/obj
+/PortInFreeSimOrder
+/Plummnointegration/Lebara.PlumMNOIntegration/test/obj/Release/test.csproj.CoreCompileInputs.cache
+/Plummnointegration/Lebara.PlumMNOIntegration/test/obj/Release
+/Plummnointegration/Lebara.PlumMNOIntegration/test/obj/Debug/test.csproj.CoreCompileInputs.cache
+/Plummnointegration/Lebara.PlumMNOIntegration/test/obj/Debug
+/Plummnointegration/Lebara.PlumMNOIntegration/test/obj
+/Plummnointegration/Lebara.PlumMNOIntegration/Lebara.PlumMNOIntegration.Web.Services/Lebara.PlumMNOIntegration.Web.Services/obj/Release/Lebara.PlumMNOIntegration.Web.Services.csproj.CoreCompileInputs.cache
+/Plummnointegration/Lebara.PlumMNOIntegration/Lebara.PlumMNOIntegration.Web.Services/Lebara.PlumMNOIntegration.Web.Services/obj/Release
+/Plummnointegration/Lebara.PlumMNOIntegration/Lebara.PlumMNOIntegration.Web.Services/Lebara.PlumMNOIntegration.Web.Services/obj/Debug/Lebara.PlumMNOIntegration.Web.Services.csproj.CoreCompileInputs.cache
+/Plummnointegration/Lebara.PlumMNOIntegration/Lebara.PlumMNOIntegration.Web.Services/Lebara.PlumMNOIntegration.Web.Services/obj/Debug
+/Plummnointegration/Lebara.PlumMNOIntegration/Lebara.PlumMNOIntegration.Web.Services/Lebara.PlumMNOIntegration.Web.Services/obj
+/Plummnointegration/Lebara.PlumMNOIntegration/Lebara.PlumMNOIntegration.Web.Services/Lebara.PlumMNOIntegration.Common.Services.BLL/obj/Release/Lebara.PlumMNOIntegration.Common.Services.BLL.csproj.CoreCompileInputs.cache
+/Plummnointegration/Lebara.PlumMNOIntegration/Lebara.PlumMNOIntegration.Web.Services/Lebara.PlumMNOIntegration.Common.Services.BLL/obj/Release
+/Plummnointegration/Lebara.PlumMNOIntegration/Lebara.PlumMNOIntegration.Web.Services/Lebara.PlumMNOIntegration.Common.Services.BLL/obj/Debug/Lebara.PlumMNOIntegration.Common.Services.BLL.csproj.CoreCompileInputs.cache
+/Plummnointegration/Lebara.PlumMNOIntegration/Lebara.PlumMNOIntegration.Web.Services/Lebara.PlumMNOIntegration.Common.Services.BLL/obj/Debug
+/Plummnointegration/Lebara.PlumMNOIntegration/Lebara.PlumMNOIntegration.Web.Services/Lebara.PlumMNOIntegration.Common.Services.BLL/obj
+/Plummnointegration/Lebara.PlumMNOIntegration/Lebara.PlumMNOIntegration.Web.Services
+/Plummnointegration/Lebara.PlumMNOIntegration/Lebara.PlumMNOIntegration.Web.ActivatorHelperWebService/obj/Release/Lebara.PlumMNOIntegration.Web.ActivatorHelperWebService.csproj.CoreCompileInputs.cache
+/Plummnointegration/Lebara.PlumMNOIntegration/Lebara.PlumMNOIntegration.Web.ActivatorHelperWebService/obj/Release
+/Plummnointegration/Lebara.PlumMNOIntegration/Lebara.PlumMNOIntegration.Web.ActivatorHelperWebService/obj/Debug/Lebara.PlumMNOIntegration.Web.ActivatorHelperWebService.csproj.CoreCompileInputs.cache
+/Plummnointegration/Lebara.PlumMNOIntegration/Lebara.PlumMNOIntegration.Web.ActivatorHelperWebService/obj/Debug
+/Plummnointegration/Lebara.PlumMNOIntegration/Lebara.PlumMNOIntegration.Web.ActivatorHelperWebService/obj
+/Plummnointegration/Lebara.PlumMNOIntegration
+/NesterServer.Win.Service/Test/obj/Release/Test.csproj.CoreCompileInputs.cache
+/NesterServer.Win.Service/Test/obj/Release
+/NesterServer.Win.Service/Test/obj/Debug/Test.csproj.CoreCompileInputs.cache
+/NesterServer.Win.Service/Test/obj/Debug
+/NesterServer.Win.Service/Test/obj
+/NesterServer.Win.Service/NesterServer.Win.Service/obj/Release/NesterServer.Win.Service.csproj.CoreCompileInputs.cache
+/NesterServer.Win.Service/NesterServer.Win.Service/obj/Release
+/NesterServer.Win.Service/NesterServer.Win.Service/obj/Debug/NesterServer.Win.Service.csproj.CoreCompileInputs.cache
+/NesterServer.Win.Service/NesterServer.Win.Service/obj/Debug
+/NesterServer.Win.Service/NesterServer.Win.Service/obj
+/NesterServer.Win.Service/NesterServer.Handler/obj/Release/NesterServer.Handler.csproj.CoreCompileInputs.cache
+/NesterServer.Win.Service/NesterServer.Handler/obj/Release
+/NesterServer.Win.Service/NesterServer.Handler/obj/Debug/NesterServer.Handler.csproj.CoreCompileInputs.cache
+/NesterServer.Win.Service/NesterServer.Handler/obj/Debug
+/NesterServer.Win.Service/NesterServer.Handler/obj
+/NesterServer.Win.Service/NesterServer.DBPersistence/obj/Release/NesterServer.DBPersistence.csproj.CoreCompileInputs.cache
+/NesterServer.Win.Service/NesterServer.DBPersistence/obj/Release
+/NesterServer.Win.Service/NesterServer.DBPersistence/obj/Debug/NesterServer.DBPersistence.csproj.CoreCompileInputs.cache
+/NesterServer.Win.Service/NesterServer.DBPersistence/obj/Debug
+/NesterServer.Win.Service/NesterServer.DBPersistence/obj
+/NesterServer.Win.Service/MonViewer/obj/Release/MonViewer.csproj.CoreCompileInputs.cache
+/NesterServer.Win.Service/MonViewer/obj/Release
+/NesterServer.Win.Service/MonViewer/obj/Debug/MonViewer.csproj.CoreCompileInputs.cache
+/NesterServer.Win.Service/MonViewer/obj/Debug
+/NesterServer.Win.Service/MonViewer/obj
+/NesterServer.Win.Service
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/ServiceImplementation/obj/Release/MoxieWrapper.WCF.ServiceImplementation.csproj.CoreCompileInputs.cache
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/ServiceImplementation/obj/Release
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/ServiceImplementation/obj/Debug/MoxieWrapper.WCF.ServiceImplementation.csproj.CoreCompileInputs.cache
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/ServiceImplementation/obj/Debug
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/ServiceImplementation/obj
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/ServiceContracts/obj/Release/MoxieWrapper.WCF.ServiceContracts.csproj.CoreCompileInputs.cache
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/ServiceContracts/obj/Release
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/ServiceContracts/obj/Debug/MoxieWrapper.WCF.ServiceContracts.csproj.CoreCompileInputs.cache
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/ServiceContracts/obj/Debug
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/ServiceContracts/obj
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/MessageContracts/obj/Release/MoxieWrapper.WCF.MessageContracts.csproj.CoreCompileInputs.cache
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/MessageContracts/obj/Release
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/MessageContracts/obj/Debug/MoxieWrapper.WCF.MessageContracts.csproj.CoreCompileInputs.cache
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/MessageContracts/obj/Debug
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/MessageContracts/obj
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/FaultContracts/obj/Release/MoxieWrapper.WCF.FaultContracts.csproj.CoreCompileInputs.cache
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/FaultContracts/obj/Release
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/FaultContracts/obj/Debug/MoxieWrapper.WCF.FaultContracts.csproj.CoreCompileInputs.cache
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/FaultContracts/obj/Debug
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/FaultContracts/obj
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/DataContracts/obj/Release/MoxieWrapper.WCF.DataContracts.csproj.CoreCompileInputs.cache
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/DataContracts/obj/Release
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/DataContracts/obj/Debug/MoxieWrapper.WCF.DataContracts.csproj.CoreCompileInputs.cache
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/DataContracts/obj/Debug
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface/DataContracts/obj
+/MoxieWrapper/WCFServiceWebRole1/Source/Service Interface
+/MoxieWrapper/WCFServiceWebRole1/Source/Resource Access/DataAccess/obj/Release/MoxieWrapper.WCF.DataAccess.csproj.CoreCompileInputs.cache
+/MoxieWrapper/WCFServiceWebRole1/Source/Resource Access/DataAccess/obj/Release
+/MoxieWrapper/WCFServiceWebRole1/Source/Resource Access/DataAccess/obj/Debug/MoxieWrapper.WCF.DataAccess.csproj.CoreCompileInputs.cache
+/MoxieWrapper/WCFServiceWebRole1/Source/Resource Access/DataAccess/obj/Debug
+/MoxieWrapper/WCFServiceWebRole1/Source/Resource Access/DataAccess/obj
+/MoxieWrapper/WCFServiceWebRole1/Source/Business Logic/BusinessLogic/obj/Release/MoxieWrapper.WCF.BusinessLogic.csproj.CoreCompileInputs.cache
+/MoxieWrapper/WCFServiceWebRole1/Source/Business Logic/BusinessLogic/obj/Release
+/MoxieWrapper/WCFServiceWebRole1/Source/Business Logic/BusinessLogic/obj/Debug/MoxieWrapper.WCF.BusinessLogic.csproj.CoreCompileInputs.cache
+/MoxieWrapper/WCFServiceWebRole1/Source/Business Logic/BusinessLogic/obj/Debug
+/MoxieWrapper/WCFServiceWebRole1/Source/Business Logic/BusinessLogic/obj
+/MoxieWrapper/WCFServiceWebRole1/Source/Business Logic/BusinessEntities/obj/Release/MoxieWrapper.WCF.BusinessEntities.csproj.CoreCompileInputs.cache
+/MoxieWrapper/WCFServiceWebRole1/Source/Business Logic/BusinessEntities/obj/Release
+/MoxieWrapper/WCFServiceWebRole1/Source/Business Logic/BusinessEntities/obj/Debug/MoxieWrapper.WCF.BusinessEntities.csproj.CoreCompileInputs.cache
+/MoxieWrapper/WCFServiceWebRole1/Source/Business Logic/BusinessEntities/obj/Debug
+/MoxieWrapper/WCFServiceWebRole1/Source/Business Logic/BusinessEntities/obj
+/MoxieWrapper/WCFServiceWebRole1/Source/Business Logic
+/MoxieWrapper/WCFServiceWebRole1/Source
+/MoxieWrapper/WCFServiceWebRole1/obj/Release/MoxieWrapperWebRole.csproj.CoreCompileInputs.cache
+/MoxieWrapper/WCFServiceWebRole1/obj/Release
+/MoxieWrapper/WCFServiceWebRole1/obj/Debug/MoxieWrapperWebRole.csproj.CoreCompileInputs.cache
+/MoxieWrapper/WCFServiceWebRole1/obj/Debug
+/MoxieWrapper/WCFServiceWebRole1/obj
+/MoxieWrapper/WCFServiceWebRole1
+/Lebara.WinAutomation.Win.Service/Lebara.WinAutomation.Common.BLL/obj/Release/Lebara.WinAutomation.Common.BLL.csproj.CoreCompileInputs.cache
+/Lebara.WinAutomation.Win.Service/Lebara.WinAutomation.Common.BLL/obj/Release
+/Lebara.WinAutomation.Win.Service/Lebara.WinAutomation.Common.BLL/obj/Debug/Lebara.WinAutomation.Common.BLL.csproj.CoreCompileInputs.cache
+/Lebara.WinAutomation.Win.Service/Lebara.WinAutomation.Common.BLL/obj/Debug
+/Lebara.WinAutomation.Win.Service/Lebara.WinAutomation.Common.BLL/obj
+/Lebara.WinAutomation.Win.Service/Lebara.UK.WinAutomation.App/obj/Release/Lebara.UK.WinAutomation.App.csproj.CoreCompileInputs.cache
+/Lebara.WinAutomation.Win.Service/Lebara.UK.WinAutomation.App/obj/Release
+/Lebara.WinAutomation.Win.Service/Lebara.UK.WinAutomation.App/obj/Debug/Lebara.UK.WinAutomation.App.csproj.CoreCompileInputs.cache
+/Lebara.WinAutomation.Win.Service/Lebara.UK.WinAutomation.App/obj/Debug
+/Lebara.WinAutomation.Win.Service/Lebara.UK.WinAutomation.App/obj
+/Lebara.WinAutomation.Win.Service
+/Lebara.Win.SMSAlert.PL.BLL/Lebara.Win.SMSAlert.PL.Test/obj/Release/Lebara.Win.SMSAlert.PL.Test.csproj.CoreCompileInputs.cache
+/Lebara.Win.SMSAlert.PL.BLL/Lebara.Win.SMSAlert.PL.Test/obj/Release
+/Lebara.Win.SMSAlert.PL.BLL/Lebara.Win.SMSAlert.PL.Test/obj/Debug/Lebara.Win.SMSAlert.PL.Test.csproj.CoreCompileInputs.cache
+/Lebara.Win.SMSAlert.PL.BLL/Lebara.Win.SMSAlert.PL.Test/obj/Debug
+/Lebara.Win.SMSAlert.PL.BLL/Lebara.Win.SMSAlert.PL.Test/obj
+/Lebara.Win.SMSAlert.PL.BLL/Lebara.Win.SMSAlert.PL.BLL/obj/Release/Lebara.Win.SMSAlert.PL.BLL.csproj.CoreCompileInputs.cache
+/Lebara.Win.SMSAlert.PL.BLL/Lebara.Win.SMSAlert.PL.BLL/obj/Release
+/Lebara.Win.SMSAlert.PL.BLL/Lebara.Win.SMSAlert.PL.BLL/obj/Debug/Lebara.Win.SMSAlert.PL.BLL.csproj.CoreCompileInputs.cache
+/Lebara.Win.SMSAlert.PL.BLL/Lebara.Win.SMSAlert.PL.BLL/obj/Debug
+/Lebara.Win.SMSAlert.PL.BLL/Lebara.Win.SMSAlert.PL.BLL/obj
+/Lebara.Win.SMSAlert.PL.BLL/Lebara.Win.SMSAlert.PL/obj/Release/Lebara.Win.SMSAlert.PL.csproj.CoreCompileInputs.cache
+/Lebara.Win.SMSAlert.PL.BLL/Lebara.Win.SMSAlert.PL/obj/Release
+/Lebara.Win.SMSAlert.PL.BLL/Lebara.Win.SMSAlert.PL/obj/Debug/Lebara.Win.SMSAlert.PL.csproj.CoreCompileInputs.cache
+/Lebara.Win.SMSAlert.PL.BLL/Lebara.Win.SMSAlert.PL/obj/Debug
+/Lebara.Win.SMSAlert.PL.BLL/Lebara.Win.SMSAlert.PL/obj
+/Lebara.Win.SMSAlert.PL.BLL
+/Lebara.VoucherProcessor.Win.Service/Logger/obj/Release/Logger.csproj.CoreCompileInputs.cache
+/Lebara.VoucherProcessor.Win.Service/Logger/obj/Release
+/Lebara.VoucherProcessor.Win.Service/Logger/obj/Debug/Logger.csproj.CoreCompileInputs.cache
+/Lebara.VoucherProcessor.Win.Service/Logger/obj/Debug
+/Lebara.VoucherProcessor.Win.Service/Logger/obj
+/Lebara.VoucherProcessor.Win.Service/LebaraDataAccess/obj/Release/LebaraDataAccess.csproj.CoreCompileInputs.cache
+/Lebara.VoucherProcessor.Win.Service/LebaraDataAccess/obj/Release
+/Lebara.VoucherProcessor.Win.Service/LebaraDataAccess/obj/Debug/LebaraDataAccess.csproj.CoreCompileInputs.cache
+/Lebara.VoucherProcessor.Win.Service/LebaraDataAccess/obj/Debug
+/Lebara.VoucherProcessor.Win.Service/LebaraDataAccess/obj
+/Lebara.VoucherProcessor.Win.Service/Lebara.VoucherProcessor.Win.Service/obj/Release/Lebara.VoucherProcessor.Win.Service.csproj.CoreCompileInputs.cache
+/Lebara.VoucherProcessor.Win.Service/Lebara.VoucherProcessor.Win.Service/obj/Release
+/Lebara.VoucherProcessor.Win.Service/Lebara.VoucherProcessor.Win.Service/obj/Debug/Lebara.VoucherProcessor.Win.Service.csproj.CoreCompileInputs.cache
+/Lebara.VoucherProcessor.Win.Service/Lebara.VoucherProcessor.Win.Service/obj/Debug
+/Lebara.VoucherProcessor.Win.Service/Lebara.VoucherProcessor.Win.Service/obj
+/Lebara.VoucherProcessor.Win.Service/Lebara.VoucherProcessor.Logic/obj/Release/Lebara.VoucherProcessor.Logic.csproj.CoreCompileInputs.cache
+/Lebara.VoucherProcessor.Win.Service/Lebara.VoucherProcessor.Logic/obj/Release
+/Lebara.VoucherProcessor.Win.Service/Lebara.VoucherProcessor.Logic/obj/Debug/Lebara.VoucherProcessor.Logic.csproj.CoreCompileInputs.cache
+/Lebara.VoucherProcessor.Win.Service/Lebara.VoucherProcessor.Logic/obj/Debug
+/Lebara.VoucherProcessor.Win.Service/Lebara.VoucherProcessor.Logic/obj
+/Lebara.VoucherProcessor.Win.Service/ConsoleInvoker/obj/Release/ConsoleInvoker.csproj.CoreCompileInputs.cache
+/Lebara.VoucherProcessor.Win.Service/ConsoleInvoker/obj/Release
+/Lebara.VoucherProcessor.Win.Service/ConsoleInvoker/obj/Debug/ConsoleInvoker.csproj.CoreCompileInputs.cache
+/Lebara.VoucherProcessor.Win.Service/ConsoleInvoker/obj/Debug
+/Lebara.VoucherProcessor.Win.Service/ConsoleInvoker/obj
+/Lebara.VoucherProcessor.Win.Service
+/Lebara.Voucher.Generation.Web.UI/Lebara.Voucher.Generation.Web.UI/obj/Release/Lebara.Voucher.Generation.Web.UI.csproj.CoreCompileInputs.cache
+/Lebara.Voucher.Generation.Web.UI/Lebara.Voucher.Generation.Web.UI/obj/Release
+/Lebara.Voucher.Generation.Web.UI/Lebara.Voucher.Generation.Web.UI/obj/Debug/Lebara.Voucher.Generation.Web.UI.csproj.CoreCompileInputs.cache
+/Lebara.Voucher.Generation.Web.UI/Lebara.Voucher.Generation.Web.UI/obj/Debug
+/Lebara.Voucher.Generation.Web.UI/Lebara.Voucher.Generation.Web.UI/obj
+/Lebara.VIPCustomers.Web.Service/Lebara.VIPCustomers.Web.Service/obj/Release/Lebara.VIPCustomers.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.VIPCustomers.Web.Service/Lebara.VIPCustomers.Web.Service/obj/Release
+/Lebara.VIPCustomers.Web.Service/Lebara.VIPCustomers.Web.Service/obj/Debug/Lebara.VIPCustomers.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.VIPCustomers.Web.Service/Lebara.VIPCustomers.Web.Service/obj/Debug
+/Lebara.VIPCustomers.Web.Service/Lebara.VIPCustomers.Web.Service/obj
+/Lebara.UnzipFiles.DK.App/Lebara.UnzipFiles.DK.App/obj/x86/Release/Lebara.UnzipFiles.DK.App.csproj.CoreCompileInputs.cache
+/Lebara.UnzipFiles.DK.App/Lebara.UnzipFiles.DK.App/obj/x86/Release
+/Lebara.UnzipFiles.DK.App/Lebara.UnzipFiles.DK.App/obj/x86/Debug/Lebara.UnzipFiles.DK.App.csproj.CoreCompileInputs.cache
+/Lebara.UnzipFiles.DK.App/Lebara.UnzipFiles.DK.App/obj/x86/Debug
+/Lebara.UnzipFiles.DK.App/Lebara.UnzipFiles.DK.App/obj/x86
+/Lebara.UnzipFiles.DK.App/Lebara.UnzipFiles.DK.App/obj/Release/Lebara.UnzipFiles.DK.App.csproj.CoreCompileInputs.cache
+/Lebara.UnzipFiles.DK.App/Lebara.UnzipFiles.DK.App/obj/Release
+/Lebara.UnzipFiles.DK.App/Lebara.UnzipFiles.DK.App/obj/Debug/Lebara.UnzipFiles.DK.App.csproj.CoreCompileInputs.cache
+/Lebara.UnzipFiles.DK.App/Lebara.UnzipFiles.DK.App/obj/Debug
+/Lebara.UnzipFiles.DK.App/Lebara.UnzipFiles.DK.App/obj
+/Lebara.UK.TopUpDeduction.Win.Service/Lebara.UK.TopUpDeduction.Win.Test/obj/Release/Lebara.UK.TopUpDeduction.Win.App.csproj.CoreCompileInputs.cache
+/Lebara.UK.TopUpDeduction.Win.Service/Lebara.UK.TopUpDeduction.Win.Test/obj/Release
+/Lebara.UK.TopUpDeduction.Win.Service/Lebara.UK.TopUpDeduction.Win.Test/obj/Debug/Lebara.UK.TopUpDeduction.Win.App.csproj.CoreCompileInputs.cache
+/Lebara.UK.TopUpDeduction.Win.Service/Lebara.UK.TopUpDeduction.Win.Test/obj/Debug
+/Lebara.UK.TopUpDeduction.Win.Service/Lebara.UK.TopUpDeduction.Win.Test/obj
+/Lebara.UK.TopUpDeduction.Win.Service/Lebara.UK.TopUpDeduction.Win.Service/obj/Release/Lebara.UK.TopUpDeduction.Win.Service.csproj.CoreCompileInputs.cache
+/Lebara.UK.TopUpDeduction.Win.Service/Lebara.UK.TopUpDeduction.Win.Service/obj/Release
+/Lebara.UK.TopUpDeduction.Win.Service/Lebara.UK.TopUpDeduction.Win.Service/obj/Debug/Lebara.UK.TopUpDeduction.Win.Service.csproj.CoreCompileInputs.cache
+/Lebara.UK.TopUpDeduction.Win.Service/Lebara.UK.TopUpDeduction.Win.Service/obj/Debug
+/Lebara.UK.TopUpDeduction.Win.Service/Lebara.UK.TopUpDeduction.Win.Service/obj
+/Lebara.UK.TopUpDeduction.Win.Service/Lebara.UK.TopUpDeduction.BLL/obj/Release/Lebara.UK.TopUpDeduction.BLL.csproj.CoreCompileInputs.cache
+/Lebara.UK.TopUpDeduction.Win.Service/Lebara.UK.TopUpDeduction.BLL/obj/Release
+/Lebara.UK.TopUpDeduction.Win.Service/Lebara.UK.TopUpDeduction.BLL/obj/Debug/Lebara.UK.TopUpDeduction.BLL.csproj.CoreCompileInputs.cache
+/Lebara.UK.TopUpDeduction.Win.Service/Lebara.UK.TopUpDeduction.BLL/obj/Debug
+/Lebara.UK.TopUpDeduction.Win.Service/Lebara.UK.TopUpDeduction.BLL/obj
+/Lebara.UK.TopUpDeduction.Win.Service
+/Lebara.Sybase.MT.Web.Service/Lebara.Sybase.MT.Web.Service/obj/Release/Lebara.Sybase.MT.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.Sybase.MT.Web.Service/Lebara.Sybase.MT.Web.Service/obj/Release
+/Lebara.Sybase.MT.Web.Service/Lebara.Sybase.MT.Web.Service/obj/Debug/Lebara.Sybase.MT.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.Sybase.MT.Web.Service/Lebara.Sybase.MT.Web.Service/obj/Debug
+/Lebara.Sybase.MT.Web.Service/Lebara.Sybase.MT.Web.Service/obj
+/Lebara.Survey.Spain.Web.UI/Lebara.Survey.Spain.Web.UI/obj/Release/Lebara.Survey.Spain.Web.UI.csproj.CoreCompileInputs.cache
+/Lebara.Survey.Spain.Web.UI/Lebara.Survey.Spain.Web.UI/obj/Release
+/Lebara.Survey.Spain.Web.UI/Lebara.Survey.Spain.Web.UI/obj/Debug/Lebara.Survey.Spain.Web.UI.csproj.CoreCompileInputs.cache
+/Lebara.Survey.Spain.Web.UI/Lebara.Survey.Spain.Web.UI/obj/Debug
+/Lebara.Survey.Spain.Web.UI/Lebara.Survey.Spain.Web.UI/obj
+/Lebara.Subscription.PSPNotification/PSPNotification/Source/Business Logic/PSPNotificationService.BusinessEntities/obj/Release/PSPNotificationService.BusinessEntities.csproj.CoreCompileInputs.cache
+/Lebara.Subscription.PSPNotification/PSPNotification/Source/Business Logic/PSPNotificationService.BusinessEntities/obj/Release
+/Lebara.Subscription.PSPNotification/PSPNotification/Source/Business Logic/PSPNotificationService.BusinessEntities/obj/Debug/PSPNotificationService.BusinessEntities.csproj.CoreCompileInputs.cache
+/Lebara.Subscription.PSPNotification/PSPNotification/Source/Business Logic/PSPNotificationService.BusinessEntities/obj/Debug
+/Lebara.Subscription.PSPNotification/PSPNotification/Source/Business Logic/PSPNotificationService.BusinessEntities/obj
+/Lebara.Subscription.PSPNotification/PSPNotification/obj/Release/PSPNotification.csproj.CoreCompileInputs.cache
+/Lebara.Subscription.PSPNotification/PSPNotification/obj/Release
+/Lebara.Subscription.PSPNotification/PSPNotification/obj/Debug/PSPNotification.csproj.CoreCompileInputs.cache
+/Lebara.Subscription.PSPNotification/PSPNotification/obj/Debug
+/Lebara.Subscription.PSPNotification/PSPNotification/obj
+/Lebara.Subscription.PSPNotification/PSPNotification
+/Lebara.Subscription.ProcessPSPNotification/ProcessNotification/obj/Release/ProcessNotification.csproj.CoreCompileInputs.cache
+/Lebara.Subscription.ProcessPSPNotification/ProcessNotification/obj/Release
+/Lebara.Subscription.ProcessPSPNotification/ProcessNotification/obj/Debug/ProcessNotification.csproj.CoreCompileInputs.cache
+/Lebara.Subscription.ProcessPSPNotification/ProcessNotification/obj/Debug
+/Lebara.Subscription.ProcessPSPNotification/ProcessNotification/obj
+/Lebara.SMS.PL.Web.App/Lebara.SMS.PL.Web.App/Lebara.SMS.PL.Web.App/obj/Release/Lebara.SMS.PL.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.PL.Web.App/Lebara.SMS.PL.Web.App/Lebara.SMS.PL.Web.App/obj/Release
+/Lebara.SMS.PL.Web.App/Lebara.SMS.PL.Web.App/Lebara.SMS.PL.Web.App/obj/Debug/Lebara.SMS.PL.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.PL.Web.App/Lebara.SMS.PL.Web.App/Lebara.SMS.PL.Web.App/obj/Debug
+/Lebara.SMS.PL.Web.App/Lebara.SMS.PL.Web.App/Lebara.SMS.PL.Web.App/obj
+/Lebara.SMS.FR.Web.App-CV2.test/Lebara.SMS.FR.Web.App/obj/Release/Lebara.SMS.FR.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.FR.Web.App-CV2.test/Lebara.SMS.FR.Web.App/obj/Release
+/Lebara.SMS.FR.Web.App-CV2.test/Lebara.SMS.FR.Web.App/obj/Debug/Lebara.SMS.FR.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.FR.Web.App-CV2.test/Lebara.SMS.FR.Web.App/obj/Debug
+/Lebara.SMS.FR.Web.App-CV2.test/Lebara.SMS.FR.Web.App/obj
+/Lebara.SMS.FR.Web.App-CV2.dev/Lebara.SMS.FR.Web.App/obj/Release/Lebara.SMS.FR.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.FR.Web.App-CV2.dev/Lebara.SMS.FR.Web.App/obj/Release
+/Lebara.SMS.FR.Web.App-CV2.dev/Lebara.SMS.FR.Web.App/obj/Debug/Lebara.SMS.FR.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.FR.Web.App-CV2.dev/Lebara.SMS.FR.Web.App/obj/Debug
+/Lebara.SMS.FR.Web.App-CV2.dev/Lebara.SMS.FR.Web.App/obj
+/Lebara.SMS.FR.Web.App-CV2/Lebara.SMS.FR.Web.App/obj/Release/Lebara.SMS.FR.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.FR.Web.App-CV2/Lebara.SMS.FR.Web.App/obj/Release
+/Lebara.SMS.FR.Web.App-CV2/Lebara.SMS.FR.Web.App/obj/Debug/Lebara.SMS.FR.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.FR.Web.App-CV2/Lebara.SMS.FR.Web.App/obj/Debug
+/Lebara.SMS.FR.Web.App-CV2/Lebara.SMS.FR.Web.App/obj
+/Lebara.SMS.FR.Web.App/Lebara.SMS.FR.Web.App/obj/Release/Lebara.SMS.FR.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.FR.Web.App/Lebara.SMS.FR.Web.App/obj/Release
+/Lebara.SMS.FR.Web.App/Lebara.SMS.FR.Web.App/obj/Debug/Lebara.SMS.FR.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.FR.Web.App/Lebara.SMS.FR.Web.App/obj/Debug
+/Lebara.SMS.FR.Web.App/Lebara.SMS.FR.Web.App/obj
+/Lebara.SMS.ES.Web.App/Lebara.SMS.ES.Web.App/obj/Release/Lebara.SMS.ES.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.ES.Web.App/Lebara.SMS.ES.Web.App/obj/Release
+/Lebara.SMS.ES.Web.App/Lebara.SMS.ES.Web.App/obj/Debug/Lebara.SMS.ES.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.ES.Web.App/Lebara.SMS.ES.Web.App/obj/Debug
+/Lebara.SMS.ES.Web.App/Lebara.SMS.ES.Web.App/obj
+/Lebara.SMS.DE.Web.App.test/Lebara.SMS.ReaderProcessor.WinService/obj/Release/Lebara.SMS.ReaderProcessor.WinService.csproj.CoreCompileInputs.cache
+/Lebara.SMS.DE.Web.App.test/Lebara.SMS.ReaderProcessor.WinService/obj/Release
+/Lebara.SMS.DE.Web.App.test/Lebara.SMS.ReaderProcessor.WinService/obj/Debug/Lebara.SMS.ReaderProcessor.WinService.csproj.CoreCompileInputs.cache
+/Lebara.SMS.DE.Web.App.test/Lebara.SMS.ReaderProcessor.WinService/obj/Debug
+/Lebara.SMS.DE.Web.App.test/Lebara.SMS.ReaderProcessor.WinService/obj
+/Lebara.SMS.DE.Web.App.test/Lebara.SMS.DE.Web.App/obj/Release/Lebara.SMS.DE.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.DE.Web.App.test/Lebara.SMS.DE.Web.App/obj/Release
+/Lebara.SMS.DE.Web.App.test/Lebara.SMS.DE.Web.App/obj/Debug/Lebara.SMS.DE.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.DE.Web.App.test/Lebara.SMS.DE.Web.App/obj/Debug
+/Lebara.SMS.DE.Web.App.test/Lebara.SMS.DE.Web.App/obj
+/Lebara.SMS.DE.Web.App.test
+/Lebara.SMS.DE.Web.App.dev/Lebara.SMS.ReaderProcessor.WinService/obj/Release/Lebara.SMS.ReaderProcessor.WinService.csproj.CoreCompileInputs.cache
+/Lebara.SMS.DE.Web.App.dev/Lebara.SMS.ReaderProcessor.WinService/obj/Release
+/Lebara.SMS.DE.Web.App.dev/Lebara.SMS.ReaderProcessor.WinService/obj/Debug/Lebara.SMS.ReaderProcessor.WinService.csproj.CoreCompileInputs.cache
+/Lebara.SMS.DE.Web.App.dev/Lebara.SMS.ReaderProcessor.WinService/obj/Debug
+/Lebara.SMS.DE.Web.App.dev/Lebara.SMS.ReaderProcessor.WinService/obj
+/Lebara.SMS.DE.Web.App.dev/Lebara.SMS.DE.Web.App/obj/Release/Lebara.SMS.DE.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.DE.Web.App.dev/Lebara.SMS.DE.Web.App/obj/Release
+/Lebara.SMS.DE.Web.App.dev/Lebara.SMS.DE.Web.App/obj/Debug/Lebara.SMS.DE.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.DE.Web.App.dev/Lebara.SMS.DE.Web.App/obj/Debug
+/Lebara.SMS.DE.Web.App.dev/Lebara.SMS.DE.Web.App/obj
+/Lebara.SMS.DE.Web.App.dev
+/Lebara.SMS.DE.Web.App-CV2/Lebara.SMS.ReaderProcessor.WinService/obj/Release/Lebara.SMS.ReaderProcessor.WinService.csproj.CoreCompileInputs.cache
+/Lebara.SMS.DE.Web.App-CV2/Lebara.SMS.ReaderProcessor.WinService/obj/Release
+/Lebara.SMS.DE.Web.App-CV2/Lebara.SMS.ReaderProcessor.WinService/obj/Debug/Lebara.SMS.ReaderProcessor.WinService.csproj.CoreCompileInputs.cache
+/Lebara.SMS.DE.Web.App-CV2/Lebara.SMS.ReaderProcessor.WinService/obj/Debug
+/Lebara.SMS.DE.Web.App-CV2/Lebara.SMS.ReaderProcessor.WinService/obj
+/Lebara.SMS.DE.Web.App-CV2/Lebara.SMS.DE.Web.App/obj/Release/Lebara.SMS.DE.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.DE.Web.App-CV2/Lebara.SMS.DE.Web.App/obj/Release
+/Lebara.SMS.DE.Web.App-CV2/Lebara.SMS.DE.Web.App/obj/Debug/Lebara.SMS.DE.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.DE.Web.App-CV2/Lebara.SMS.DE.Web.App/obj/Debug
+/Lebara.SMS.DE.Web.App-CV2/Lebara.SMS.DE.Web.App/obj
+/Lebara.SMS.DE.Web.App-CV2
+/Lebara.SMS.DE.Web.App/Lebara.SMS.ReaderProcessor.WinService/obj/Release/Lebara.SMS.ReaderProcessor.WinService.csproj.CoreCompileInputs.cache
+/Lebara.SMS.DE.Web.App/Lebara.SMS.ReaderProcessor.WinService/obj/Release
+/Lebara.SMS.DE.Web.App/Lebara.SMS.ReaderProcessor.WinService/obj/Debug/Lebara.SMS.ReaderProcessor.WinService.csproj.CoreCompileInputs.cache
+/Lebara.SMS.DE.Web.App/Lebara.SMS.ReaderProcessor.WinService/obj/Debug
+/Lebara.SMS.DE.Web.App/Lebara.SMS.ReaderProcessor.WinService/obj
+/Lebara.SMS.DE.Web.App/Lebara.SMS.DE.Web.App/obj/Release/Lebara.SMS.DE.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.DE.Web.App/Lebara.SMS.DE.Web.App/obj/Release
+/Lebara.SMS.DE.Web.App/Lebara.SMS.DE.Web.App/obj/Debug/Lebara.SMS.DE.Web.App.csproj.CoreCompileInputs.cache
+/Lebara.SMS.DE.Web.App/Lebara.SMS.DE.Web.App/obj/Debug
+/Lebara.SMS.DE.Web.App/Lebara.SMS.DE.Web.App/obj
+/Lebara.SMS.DE.Web.App
+/Lebara.SimProvisioningOCS5.App/Lebara.SimProvisioningOCS5.App.BLL/obj/Release/Lebara.SimProvisioningOCS5.App.BLL.csproj.CoreCompileInputs.cache
+/Lebara.SimProvisioningOCS5.App/Lebara.SimProvisioningOCS5.App.BLL/obj/Release
+/Lebara.SimProvisioningOCS5.App/Lebara.SimProvisioningOCS5.App.BLL/obj/Debug/Lebara.SimProvisioningOCS5.App.BLL.csproj.CoreCompileInputs.cache
+/Lebara.SimProvisioningOCS5.App/Lebara.SimProvisioningOCS5.App.BLL/obj/Debug
+/Lebara.SimProvisioningOCS5.App/Lebara.SimProvisioningOCS5.App.BLL/obj
+/Lebara.SimProvisioningOCS5.App/Lebara.SimProvisioningOCS5.App/obj/Release/Lebara.SimProvisioningOCS5.App.csproj.CoreCompileInputs.cache
+/Lebara.SimProvisioningOCS5.App/Lebara.SimProvisioningOCS5.App/obj/Release
+/Lebara.SimProvisioningOCS5.App/Lebara.SimProvisioningOCS5.App/obj/Debug/Lebara.SimProvisioningOCS5.App.csproj.CoreCompileInputs.cache
+/Lebara.SimProvisioningOCS5.App/Lebara.SimProvisioningOCS5.App/obj/Debug
+/Lebara.SimProvisioningOCS5.App/Lebara.SimProvisioningOCS5.App/obj
+/Lebara.SimProvisioningOCS5.App
+/Lebara.Send.SMS.MT.Web.Service/Lebara.Send.SMS.MT.Web.Service/obj/Release/Lebara.Send.SMS.MT.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.Send.SMS.MT.Web.Service/Lebara.Send.SMS.MT.Web.Service/obj/Release
+/Lebara.Send.SMS.MT.Web.Service/Lebara.Send.SMS.MT.Web.Service/obj/Debug/Lebara.Send.SMS.MT.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.Send.SMS.MT.Web.Service/Lebara.Send.SMS.MT.Web.Service/obj/Debug
+/Lebara.Send.SMS.MT.Web.Service/Lebara.Send.SMS.MT.Web.Service/obj
+/Lebara.RAF/Lebara.RAF.Utility/obj/Release/Lebara.RAF.Utility.csproj.CoreCompileInputs.cache
+/Lebara.RAF/Lebara.RAF.Utility/obj/Release
+/Lebara.RAF/Lebara.RAF.Utility/obj/Debug/Lebara.RAF.Utility.csproj.CoreCompileInputs.cache
+/Lebara.RAF/Lebara.RAF.Utility/obj/Debug
+/Lebara.RAF/Lebara.RAF.Utility/obj
+/Lebara.PVFrance.Lowbalance.App/Lebara.PVFrance.Lowbalance.App/obj/Release/Lebara.PVFrance.Lowbalance.App.csproj.CoreCompileInputs.cache
+/Lebara.PVFrance.Lowbalance.App/Lebara.PVFrance.Lowbalance.App/obj/Release
+/Lebara.PVFrance.Lowbalance.App/Lebara.PVFrance.Lowbalance.App/obj/Debug/Lebara.PVFrance.Lowbalance.App.csproj.CoreCompileInputs.cache
+/Lebara.PVFrance.Lowbalance.App/Lebara.PVFrance.Lowbalance.App/obj/Debug
+/Lebara.PVFrance.Lowbalance.App/Lebara.PVFrance.Lowbalance.App/obj
+/Lebara.ProcessingMesh/WorkflowService1/obj/Release/WorkflowService1.csproj.CoreCompileInputs.cache
+/Lebara.ProcessingMesh/WorkflowService1/obj/Release
+/Lebara.ProcessingMesh/WorkflowService1/obj/Debug/WorkflowService1.csproj.CoreCompileInputs.cache
+/Lebara.ProcessingMesh/WorkflowService1/obj/Debug
+/Lebara.ProcessingMesh/WorkflowService1/obj
+/Lebara.ProcessingMesh/Lebara.ProcessingMesh.Tests/obj/Release/Lebara.ProcessingMesh.Tests.csproj.CoreCompileInputs.cache
+/Lebara.ProcessingMesh/Lebara.ProcessingMesh.Tests/obj/Release
+/Lebara.ProcessingMesh/Lebara.ProcessingMesh.Tests/obj/Debug/Lebara.ProcessingMesh.Tests.csproj.CoreCompileInputs.cache
+/Lebara.ProcessingMesh/Lebara.ProcessingMesh.Tests/obj/Debug
+/Lebara.ProcessingMesh/Lebara.ProcessingMesh.Tests/obj
+/Lebara.ProcessingMesh/Lebara.ProcessingMesh.ServiceImplementation/obj/Release/Lebara.ProcessingMesh.ServiceImplementation.csproj.CoreCompileInputs.cache
+/Lebara.ProcessingMesh/Lebara.ProcessingMesh.ServiceImplementation/obj/Release
+/Lebara.ProcessingMesh/Lebara.ProcessingMesh.ServiceImplementation/obj/Debug/Lebara.ProcessingMesh.ServiceImplementation.csproj.CoreCompileInputs.cache
+/Lebara.ProcessingMesh/Lebara.ProcessingMesh.ServiceImplementation/obj/Debug
+/Lebara.ProcessingMesh/Lebara.ProcessingMesh.ServiceImplementation/obj
+/Lebara.ProcessingMesh/Lebara.ProcessingMesh.ServiceContracts/obj/Release/Lebara.ProcessingMesh.ServiceContracts.csproj.CoreCompileInputs.cache
+/Lebara.ProcessingMesh/Lebara.ProcessingMesh.ServiceContracts/obj/Release
+/Lebara.ProcessingMesh/Lebara.ProcessingMesh.ServiceContracts/obj/Debug/Lebara.ProcessingMesh.ServiceContracts.csproj.CoreCompileInputs.cache
+/Lebara.ProcessingMesh/Lebara.ProcessingMesh.ServiceContracts/obj/Debug
+/Lebara.ProcessingMesh/Lebara.ProcessingMesh.ServiceContracts/obj
+/Lebara.ProcessingMesh
+/Lebara.Pinger/Lebara.Pinger.WorkerRole/obj/Release/Lebara.Pinger.WorkerRole.csproj.CoreCompileInputs.cache
+/Lebara.Pinger/Lebara.Pinger.WorkerRole/obj/Release
+/Lebara.Pinger/Lebara.Pinger.WorkerRole/obj/Debug/Lebara.Pinger.WorkerRole.csproj.CoreCompileInputs.cache
+/Lebara.Pinger/Lebara.Pinger.WorkerRole/obj/Debug
+/Lebara.Pinger/Lebara.Pinger.WorkerRole/obj
+/Lebara.OCS5.5.CRM.ContactEntity.Update/Lebara.EntityUpdate.App.BLL/obj/Release/Lebara.EntityUpdate.App.BLL.csproj.CoreCompileInputs.cache
+/Lebara.OCS5.5.CRM.ContactEntity.Update/Lebara.EntityUpdate.App.BLL/obj/Release
+/Lebara.OCS5.5.CRM.ContactEntity.Update/Lebara.EntityUpdate.App.BLL/obj/Debug/Lebara.EntityUpdate.App.BLL.csproj.CoreCompileInputs.cache
+/Lebara.OCS5.5.CRM.ContactEntity.Update/Lebara.EntityUpdate.App.BLL/obj/Debug
+/Lebara.OCS5.5.CRM.ContactEntity.Update/Lebara.EntityUpdate.App.BLL/obj
+/Lebara.OCS5.5.CRM.ContactEntity.Update/Lebara.EntityUpdate.App/obj/Release/Lebara.Win.Service.Handset.TestApp.csproj.CoreCompileInputs.cache
+/Lebara.OCS5.5.CRM.ContactEntity.Update/Lebara.EntityUpdate.App/obj/Release/Lebara.EntityUpdate.App.Console.csproj.CoreCompileInputs.cache
+/Lebara.OCS5.5.CRM.ContactEntity.Update/Lebara.EntityUpdate.App/obj/Release
+/Lebara.OCS5.5.CRM.ContactEntity.Update/Lebara.EntityUpdate.App/obj/Debug/Lebara.Win.Service.Handset.TestApp.csproj.CoreCompileInputs.cache
+/Lebara.OCS5.5.CRM.ContactEntity.Update/Lebara.EntityUpdate.App/obj/Debug/Lebara.EntityUpdate.App.Console.csproj.CoreCompileInputs.cache
+/Lebara.OCS5.5.CRM.ContactEntity.Update/Lebara.EntityUpdate.App/obj/Debug
+/Lebara.OCS5.5.CRM.ContactEntity.Update/Lebara.EntityUpdate.App/obj
+/Lebara.OCS5.5.CRM.ContactEntity.Update
+/Lebara.NUSextra/NUSextra.WCF/Tests/NUSextra.WCF.Client/obj/Release/NUSextra.WCF.Client.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/NUSextra.WCF/Tests/NUSextra.WCF.Client/obj/Release
+/Lebara.NUSextra/NUSextra.WCF/Tests/NUSextra.WCF.Client/obj/Debug/NUSextra.WCF.Client.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/NUSextra.WCF/Tests/NUSextra.WCF.Client/obj/Debug
+/Lebara.NUSextra/NUSextra.WCF/Tests/NUSextra.WCF.Client/obj
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.ServiceImplementation/obj/Release/NUSextra.WCF.ServiceImplementation.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.ServiceImplementation/obj/Release
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.ServiceImplementation/obj/Debug/NUSextra.WCF.ServiceImplementation.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.ServiceImplementation/obj/Debug
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.ServiceImplementation/obj
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.ServiceContracts/obj/Release/NUSextra.WCF.ServiceContracts.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.ServiceContracts/obj/Release
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.ServiceContracts/obj/Debug/NUSextra.WCF.ServiceContracts.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.ServiceContracts/obj/Debug
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.ServiceContracts/obj
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.MessageContracts/obj/Release/NUSextra.WCF.MessageContracts.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.MessageContracts/obj/Release
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.MessageContracts/obj/Debug/NUSextra.WCF.MessageContracts.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.MessageContracts/obj/Debug
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.MessageContracts/obj
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.FaultContracts/obj/Release/NUSextra.WCF.FaultContracts.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.FaultContracts/obj/Release
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.FaultContracts/obj/Debug/NUSextra.WCF.FaultContracts.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.FaultContracts/obj/Debug
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.FaultContracts/obj
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.DataContracts/obj/Release/NUSextra.WCF.DataContracts.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.DataContracts/obj/Release
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.DataContracts/obj/Debug/NUSextra.WCF.DataContracts.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.DataContracts/obj/Debug
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface/NUSextra.WCF.DataContracts/obj
+/Lebara.NUSextra/NUSextra.WCF/Source/Service Interface
+/Lebara.NUSextra/NUSextra.WCF/Source/Resource Access/NUSextra.WCF.DataAccess/obj/Release/NUSextra.WCF.DataAccess.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/NUSextra.WCF/Source/Resource Access/NUSextra.WCF.DataAccess/obj/Release
+/Lebara.NUSextra/NUSextra.WCF/Source/Resource Access/NUSextra.WCF.DataAccess/obj/Debug/NUSextra.WCF.DataAccess.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/NUSextra.WCF/Source/Resource Access/NUSextra.WCF.DataAccess/obj/Debug
+/Lebara.NUSextra/NUSextra.WCF/Source/Resource Access/NUSextra.WCF.DataAccess/obj
+/Lebara.NUSextra/NUSextra.WCF/Source/Business Logic/NUSextra.WCF.BusinessLogic/obj/Release/NUSextra.WCF.BusinessLogic.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/NUSextra.WCF/Source/Business Logic/NUSextra.WCF.BusinessLogic/obj/Release
+/Lebara.NUSextra/NUSextra.WCF/Source/Business Logic/NUSextra.WCF.BusinessLogic/obj/Debug/NUSextra.WCF.BusinessLogic.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/NUSextra.WCF/Source/Business Logic/NUSextra.WCF.BusinessLogic/obj/Debug
+/Lebara.NUSextra/NUSextra.WCF/Source/Business Logic/NUSextra.WCF.BusinessLogic/obj
+/Lebara.NUSextra/NUSextra.WCF/Source/Business Logic/NUSextra.WCF.BusinessEntities/obj/Release/NUSextra.WCF.BusinessEntities.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/NUSextra.WCF/Source/Business Logic/NUSextra.WCF.BusinessEntities/obj/Release
+/Lebara.NUSextra/NUSextra.WCF/Source/Business Logic/NUSextra.WCF.BusinessEntities/obj/Debug/NUSextra.WCF.BusinessEntities.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/NUSextra.WCF/Source/Business Logic/NUSextra.WCF.BusinessEntities/obj/Debug
+/Lebara.NUSextra/NUSextra.WCF/Source/Business Logic/NUSextra.WCF.BusinessEntities/obj
+/Lebara.NUSextra/Lebara.NUSextra.Schema/obj/Release/Lebara.NUSextra.Schema.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/Lebara.NUSextra.Schema/obj/Release
+/Lebara.NUSextra/Lebara.NUSextra.Schema/obj/Debug/Lebara.NUSextra.Schema.csproj.CoreCompileInputs.cache
+/Lebara.NUSextra/Lebara.NUSextra.Schema/obj/Debug
+/Lebara.NUSextra/Lebara.NUSextra.Schema/obj
+/Lebara.NUSextra
+/Lebara.NugetCloud/Lebara.Nuget.WebRole/obj/Release/Lebara.Nuget.WebRole.csproj.CoreCompileInputs.cache
+/Lebara.NugetCloud/Lebara.Nuget.WebRole/obj/Release
+/Lebara.NugetCloud/Lebara.Nuget.WebRole/obj/Debug/Lebara.Nuget.WebRole.csproj.CoreCompileInputs.cache
+/Lebara.NugetCloud/Lebara.Nuget.WebRole/obj/Debug
+/Lebara.NugetCloud/Lebara.Nuget.WebRole/obj
+/Lebara.Nuget/Lebara.Nuget/obj/Release/Lebara.Nuget.csproj.CoreCompileInputs.cache
+/Lebara.Nuget/Lebara.Nuget/obj/Release
+/Lebara.Nuget/Lebara.Nuget/obj/Debug/Lebara.Nuget.csproj.CoreCompileInputs.cache
+/Lebara.Nuget/Lebara.Nuget/obj/Debug
+/Lebara.Nuget/Lebara.Nuget/obj
+/Lebara.NL.One.App/Lebara.NL.One.App/obj/Release/Lebara.NL.One.App.csproj.CoreCompileInputs.cache
+/Lebara.NL.One.App/Lebara.NL.One.App/obj/Release
+/Lebara.NL.One.App/Lebara.NL.One.App/obj/Debug/Lebara.NL.One.App.csproj.CoreCompileInputs.cache
+/Lebara.NL.One.App/Lebara.NL.One.App/obj/Debug
+/Lebara.NL.One.App/Lebara.NL.One.App/obj
+/Lebara.MPLS.Test-branch/Lebara.MPLS.Test/obj/Release/Lebara.MPLS.Test.csproj.CoreCompileInputs.cache
+/Lebara.MPLS.Test-branch/Lebara.MPLS.Test/obj/Release
+/Lebara.MPLS.Test-branch/Lebara.MPLS.Test/obj/Debug/Lebara.MPLS.Test.csproj.CoreCompileInputs.cache
+/Lebara.MPLS.Test-branch/Lebara.MPLS.Test/obj/Debug
+/Lebara.MPLS.Test-branch/Lebara.MPLS.Test/obj
+/Lebara.MPLS.Test/Lebara.MPLS.Test/obj/Release/Lebara.MPLS.Test.csproj.CoreCompileInputs.cache
+/Lebara.MPLS.Test/Lebara.MPLS.Test/obj/Release
+/Lebara.MPLS.Test/Lebara.MPLS.Test/obj/Debug/Lebara.MPLS.Test.csproj.CoreCompileInputs.cache
+/Lebara.MPLS.Test/Lebara.MPLS.Test/obj/Debug
+/Lebara.MPLS.Test/Lebara.MPLS.Test/obj
+/Lebara.MPIntegration.Web.Services- IN Branch/Lebara.MPIntegration.Web.Services.Test/obj/Release/Lebara.MPIntegration.Web.Services.Test.csproj.CoreCompileInputs.cache
+/Lebara.MPIntegration.Web.Services- IN Branch/Lebara.MPIntegration.Web.Services.Test/obj/Release
+/Lebara.MPIntegration.Web.Services- IN Branch/Lebara.MPIntegration.Web.Services.Test/obj/Debug/Lebara.MPIntegration.Web.Services.Test.csproj.CoreCompileInputs.cache
+/Lebara.MPIntegration.Web.Services- IN Branch/Lebara.MPIntegration.Web.Services.Test/obj/Debug
+/Lebara.MPIntegration.Web.Services- IN Branch/Lebara.MPIntegration.Web.Services.Test/obj
+/Lebara.MPIntegration.Web.Services- IN Branch/Lebara.MPIntegration.Web.Services.Payment/obj/Release/Lebara.MPIntegration.Web.Services.Payment.csproj.CoreCompileInputs.cache
+/Lebara.MPIntegration.Web.Services- IN Branch/Lebara.MPIntegration.Web.Services.Payment/obj/Release
+/Lebara.MPIntegration.Web.Services- IN Branch/Lebara.MPIntegration.Web.Services.Payment/obj/Debug/Lebara.MPIntegration.Web.Services.Payment.csproj.CoreCompileInputs.cache
+/Lebara.MPIntegration.Web.Services- IN Branch/Lebara.MPIntegration.Web.Services.Payment/obj/Debug
+/Lebara.MPIntegration.Web.Services- IN Branch/Lebara.MPIntegration.Web.Services.Payment/obj
+/Lebara.MPIntegration.Web.Services- IN Branch/Lebara.MPIntegration.Web.Services.Authentication/obj/Release/Lebara.MPIntegration.Web.Services.Authentication.csproj.CoreCompileInputs.cache
+/Lebara.MPIntegration.Web.Services- IN Branch/Lebara.MPIntegration.Web.Services.Authentication/obj/Release
+/Lebara.MPIntegration.Web.Services- IN Branch/Lebara.MPIntegration.Web.Services.Authentication/obj/Debug/Lebara.MPIntegration.Web.Services.Authentication.csproj.CoreCompileInputs.cache
+/Lebara.MPIntegration.Web.Services- IN Branch/Lebara.MPIntegration.Web.Services.Authentication/obj/Debug
+/Lebara.MPIntegration.Web.Services- IN Branch/Lebara.MPIntegration.Web.Services.Authentication/obj
+/Lebara.MPIntegration.Web.Services- IN Branch
+/Lebara.MPIntegration.Web.Services/Lebara.MPIntegration.Web.Services.Test/obj/Release/Lebara.MPIntegration.Web.Services.Test.csproj.CoreCompileInputs.cache
+/Lebara.MPIntegration.Web.Services/Lebara.MPIntegration.Web.Services.Test/obj/Release
+/Lebara.MPIntegration.Web.Services/Lebara.MPIntegration.Web.Services.Test/obj/Debug/Lebara.MPIntegration.Web.Services.Test.csproj.CoreCompileInputs.cache
+/Lebara.MPIntegration.Web.Services/Lebara.MPIntegration.Web.Services.Test/obj/Debug
+/Lebara.MPIntegration.Web.Services/Lebara.MPIntegration.Web.Services.Test/obj
+/Lebara.MPIntegration.Web.Services/Lebara.MPIntegration.Web.Services.Payment/obj/Release/Lebara.MPIntegration.Web.Services.Payment.csproj.CoreCompileInputs.cache
+/Lebara.MPIntegration.Web.Services/Lebara.MPIntegration.Web.Services.Payment/obj/Release
+/Lebara.MPIntegration.Web.Services/Lebara.MPIntegration.Web.Services.Payment/obj/Debug/Lebara.MPIntegration.Web.Services.Payment.csproj.CoreCompileInputs.cache
+/Lebara.MPIntegration.Web.Services/Lebara.MPIntegration.Web.Services.Payment/obj/Debug
+/Lebara.MPIntegration.Web.Services/Lebara.MPIntegration.Web.Services.Payment/obj
+/Lebara.MPIntegration.Web.Services/Lebara.MPIntegration.Web.Services.Authentication/obj/Release/Lebara.MPIntegration.Web.Services.Authentication.csproj.CoreCompileInputs.cache
+/Lebara.MPIntegration.Web.Services/Lebara.MPIntegration.Web.Services.Authentication/obj/Release
+/Lebara.MPIntegration.Web.Services/Lebara.MPIntegration.Web.Services.Authentication/obj/Debug/Lebara.MPIntegration.Web.Services.Authentication.csproj.CoreCompileInputs.cache
+/Lebara.MPIntegration.Web.Services/Lebara.MPIntegration.Web.Services.Authentication/obj/Debug
+/Lebara.MPIntegration.Web.Services/Lebara.MPIntegration.Web.Services.Authentication/obj
+/Lebara.MPIntegration.Web.Services
+/Lebara.MicroCredit/MicroCredit.WCF/Tests/MicroCredit.WCF.Client/obj/Release/MicroCredit.WCF.Client.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/MicroCredit.WCF/Tests/MicroCredit.WCF.Client/obj/Release
+/Lebara.MicroCredit/MicroCredit.WCF/Tests/MicroCredit.WCF.Client/obj/Debug/MicroCredit.WCF.Client.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/MicroCredit.WCF/Tests/MicroCredit.WCF.Client/obj/Debug
+/Lebara.MicroCredit/MicroCredit.WCF/Tests/MicroCredit.WCF.Client/obj
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.ServiceImplementation/obj/Release/MicroCredit.WCF.ServiceImplementation.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.ServiceImplementation/obj/Release
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.ServiceImplementation/obj/Debug/MicroCredit.WCF.ServiceImplementation.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.ServiceImplementation/obj/Debug
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.ServiceImplementation/obj
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.ServiceContracts/obj/Release/MicroCredit.WCF.ServiceContracts.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.ServiceContracts/obj/Release
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.ServiceContracts/obj/Debug/MicroCredit.WCF.ServiceContracts.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.ServiceContracts/obj/Debug
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.ServiceContracts/obj
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.MessageContracts/obj/Release/MicroCredit.WCF.MessageContracts.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.MessageContracts/obj/Release
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.MessageContracts/obj/Debug/MicroCredit.WCF.MessageContracts.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.MessageContracts/obj/Debug
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.MessageContracts/obj
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.FaultContracts/obj/Release/MicroCredit.WCF.FaultContracts.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.FaultContracts/obj/Release
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.FaultContracts/obj/Debug/MicroCredit.WCF.FaultContracts.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.FaultContracts/obj/Debug
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.FaultContracts/obj
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.DataContracts/obj/Release/MicroCredit.WCF.DataContracts.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.DataContracts/obj/Release
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.DataContracts/obj/Debug/MicroCredit.WCF.DataContracts.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.DataContracts/obj/Debug
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface/MicroCredit.WCF.DataContracts/obj
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Service Interface
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Resource Access/MicroCredit.WCF.DataAccess/obj/Release/MicroCredit.WCF.DataAccess.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Resource Access/MicroCredit.WCF.DataAccess/obj/Release
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Resource Access/MicroCredit.WCF.DataAccess/obj/Debug/MicroCredit.WCF.DataAccess.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Resource Access/MicroCredit.WCF.DataAccess/obj/Debug
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Resource Access/MicroCredit.WCF.DataAccess/obj
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Business Logic/MicroCredit.WCF.BusinessLogic/obj/Release/MicroCredit.WCF.BusinessLogic.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Business Logic/MicroCredit.WCF.BusinessLogic/obj/Release
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Business Logic/MicroCredit.WCF.BusinessLogic/obj/Debug/MicroCredit.WCF.BusinessLogic.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Business Logic/MicroCredit.WCF.BusinessLogic/obj/Debug
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Business Logic/MicroCredit.WCF.BusinessLogic/obj
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Business Logic/MicroCredit.WCF.BusinessEntities/obj/Release/MicroCredit.WCF.BusinessEntities.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Business Logic/MicroCredit.WCF.BusinessEntities/obj/Release
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Business Logic/MicroCredit.WCF.BusinessEntities/obj/Debug/MicroCredit.WCF.BusinessEntities.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Business Logic/MicroCredit.WCF.BusinessEntities/obj/Debug
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Business Logic/MicroCredit.WCF.BusinessEntities/obj
+/Lebara.MicroCredit/MicroCredit.WCF/Source/Business Logic
+/Lebara.MicroCredit/MicroCredit.WCF/Source
+/Lebara.MicroCredit/MicroCredit.WCF
+/Lebara.MicroCredit/Lebara.MicroCredit.Schema/obj/Release/Lebara.MicroCredit.Schema.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/Lebara.MicroCredit.Schema/obj/Release
+/Lebara.MicroCredit/Lebara.MicroCredit.Schema/obj/Debug/Lebara.MicroCredit.Schema.csproj.CoreCompileInputs.cache
+/Lebara.MicroCredit/Lebara.MicroCredit.Schema/obj/Debug
+/Lebara.MicroCredit/Lebara.MicroCredit.Schema/obj
+/Lebara.MicroCredit
+/Lebara.MicroCharging/MicroCharging.Service/Tests/MicroCharging.Service.Client/obj/Release/MicroCharging.Service.Client.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Tests/MicroCharging.Service.Client/obj/Release
+/Lebara.MicroCharging/MicroCharging.Service/Tests/MicroCharging.Service.Client/obj/Debug/MicroCharging.Service.Client.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Tests/MicroCharging.Service.Client/obj/Debug
+/Lebara.MicroCharging/MicroCharging.Service/Tests/MicroCharging.Service.Client/obj
+/Lebara.MicroCharging/MicroCharging.Service/Tests/Functional Tests/ConsoleApplication1/obj/Release/ConsoleApplication.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Tests/Functional Tests/ConsoleApplication1/obj/Release
+/Lebara.MicroCharging/MicroCharging.Service/Tests/Functional Tests/ConsoleApplication1/obj/Debug/ConsoleApplication.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Tests/Functional Tests/ConsoleApplication1/obj/Debug
+/Lebara.MicroCharging/MicroCharging.Service/Tests/Functional Tests/ConsoleApplication1/obj
+/Lebara.MicroCharging/MicroCharging.Service/Tests
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.ServiceImplementation/obj/Release/MicroCharging.Service.ServiceImplementation.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.ServiceImplementation/obj/Release
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.ServiceImplementation/obj/Debug/MicroCharging.Service.ServiceImplementation.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.ServiceImplementation/obj/Debug
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.ServiceImplementation/obj
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.ServiceContracts/obj/Release/MicroCharging.Service.ServiceContracts.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.ServiceContracts/obj/Release
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.ServiceContracts/obj/Debug/MicroCharging.Service.ServiceContracts.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.ServiceContracts/obj/Debug
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.ServiceContracts/obj
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.MessageContracts/obj/Release/MicroCharging.Service.MessageContracts.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.MessageContracts/obj/Release
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.MessageContracts/obj/Debug/MicroCharging.Service.MessageContracts.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.MessageContracts/obj/Debug
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.MessageContracts/obj
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.FaultContracts/obj/Release/MicroCharging.Service.FaultContracts.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.FaultContracts/obj/Release
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.FaultContracts/obj/Debug/MicroCharging.Service.FaultContracts.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.FaultContracts/obj/Debug
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.FaultContracts/obj
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.DataContracts/obj/Release/MicroCharging.Service.DataContracts.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.DataContracts/obj/Release
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.DataContracts/obj/Debug/MicroCharging.Service.DataContracts.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.DataContracts/obj/Debug
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface/MicroCharging.Service.DataContracts/obj
+/Lebara.MicroCharging/MicroCharging.Service/Source/Service Interface
+/Lebara.MicroCharging/MicroCharging.Service/Source/Resource Access/MicroCharging.Service.DataAccess/obj/Release/MicroCharging.Service.DataAccess.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Source/Resource Access/MicroCharging.Service.DataAccess/obj/Release
+/Lebara.MicroCharging/MicroCharging.Service/Source/Resource Access/MicroCharging.Service.DataAccess/obj/Debug/MicroCharging.Service.DataAccess.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Source/Resource Access/MicroCharging.Service.DataAccess/obj/Debug
+/Lebara.MicroCharging/MicroCharging.Service/Source/Resource Access/MicroCharging.Service.DataAccess/obj
+/Lebara.MicroCharging/MicroCharging.Service/Source/Business Logic/MicroCharging.Service.BusinessLogic/obj/Release/MicroCharging.Service.BusinessLogic.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Source/Business Logic/MicroCharging.Service.BusinessLogic/obj/Release
+/Lebara.MicroCharging/MicroCharging.Service/Source/Business Logic/MicroCharging.Service.BusinessLogic/obj/Debug/MicroCharging.Service.BusinessLogic.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Source/Business Logic/MicroCharging.Service.BusinessLogic/obj/Debug
+/Lebara.MicroCharging/MicroCharging.Service/Source/Business Logic/MicroCharging.Service.BusinessLogic/obj
+/Lebara.MicroCharging/MicroCharging.Service/Source/Business Logic/MicroCharging.Service.BusinessEntities/obj/Release/MicroCharging.Service.BusinessEntities.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Source/Business Logic/MicroCharging.Service.BusinessEntities/obj/Release
+/Lebara.MicroCharging/MicroCharging.Service/Source/Business Logic/MicroCharging.Service.BusinessEntities/obj/Debug/MicroCharging.Service.BusinessEntities.csproj.CoreCompileInputs.cache
+/Lebara.MicroCharging/MicroCharging.Service/Source/Business Logic/MicroCharging.Service.BusinessEntities/obj/Debug
+/Lebara.MicroCharging/MicroCharging.Service/Source/Business Logic/MicroCharging.Service.BusinessEntities/obj
+/Lebara.MicroCharging/MicroCharging.Service/Source/Business Logic
+/Lebara.MicroCharging/MicroCharging.Service/Source
+/Lebara.MicroCharging/MicroCharging.Service
+/Lebara.MessageQueue.Dispatcher/MessageQueueDispatcher/obj/Release/SubscriptionMessageDispatcher.csproj.CoreCompileInputs.cache
+/Lebara.MessageQueue.Dispatcher/MessageQueueDispatcher/obj/Release
+/Lebara.MessageQueue.Dispatcher/MessageQueueDispatcher/obj/Debug/SubscriptionMessageDispatcher.csproj.CoreCompileInputs.cache
+/Lebara.MessageQueue.Dispatcher/MessageQueueDispatcher/obj/Debug
+/Lebara.MessageQueue.Dispatcher/MessageQueueDispatcher/obj
+/Lebara.MessageQueue.Dispatcher/LebaraMessageForwarder/obj/Release/LebaraMessageForwarder.csproj.CoreCompileInputs.cache
+/Lebara.MessageQueue.Dispatcher/LebaraMessageForwarder/obj/Release
+/Lebara.MessageQueue.Dispatcher/LebaraMessageForwarder/obj/Debug/LebaraMessageForwarder.csproj.CoreCompileInputs.cache
+/Lebara.MessageQueue.Dispatcher/LebaraMessageForwarder/obj/Debug
+/Lebara.MessageQueue.Dispatcher/LebaraMessageForwarder/obj
+/Lebara.MessageQueue.Dispatcher/Lebara.Common.Utilities.Logging/obj/Release/Lebara.Common.Utilities.Logging.csproj.CoreCompileInputs.cache
+/Lebara.MessageQueue.Dispatcher/Lebara.Common.Utilities.Logging/obj/Release
+/Lebara.MessageQueue.Dispatcher/Lebara.Common.Utilities.Logging/obj/Debug/Lebara.Common.Utilities.Logging.csproj.CoreCompileInputs.cache
+/Lebara.MessageQueue.Dispatcher/Lebara.Common.Utilities.Logging/obj/Debug
+/Lebara.MessageQueue.Dispatcher/Lebara.Common.Utilities.Logging/obj
+/Lebara.MessageQueue.Dispatcher/client/obj/Release/SampleClient.csproj.CoreCompileInputs.cache
+/Lebara.MessageQueue.Dispatcher/client/obj/Release
+/Lebara.MessageQueue.Dispatcher/client/obj/Debug/SampleClient.csproj.CoreCompileInputs.cache
+/Lebara.MessageQueue.Dispatcher/client/obj/Debug
+/Lebara.MessageQueue.Dispatcher/client/obj
+/Lebara.MessageQueue.Dispatcher
+/Lebara.INPlatform.Win.CDRProcessor.FR/Lebara.INPlatform.Win.CDRProcessor.Test/obj/Release/Lebara.INPlatform.Win.CDRProcessor.Test.csproj.CoreCompileInputs.cache
+/Lebara.INPlatform.Win.CDRProcessor.FR/Lebara.INPlatform.Win.CDRProcessor.Test/obj/Release
+/Lebara.INPlatform.Win.CDRProcessor.FR/Lebara.INPlatform.Win.CDRProcessor.Test/obj/Debug/Lebara.INPlatform.Win.CDRProcessor.Test.csproj.CoreCompileInputs.cache
+/Lebara.INPlatform.Win.CDRProcessor.FR/Lebara.INPlatform.Win.CDRProcessor.Test/obj/Debug
+/Lebara.INPlatform.Win.CDRProcessor.FR/Lebara.INPlatform.Win.CDRProcessor.Test/obj
+/Lebara.INPlatform.Win.CDRProcessor.FR/Lebara.INPlatform.Win.CDRProcessor.BLL/obj/Release/Lebara.INPlatform.Common.CDRProcessor.BLL.csproj.CoreCompileInputs.cache
+/Lebara.INPlatform.Win.CDRProcessor.FR/Lebara.INPlatform.Win.CDRProcessor.BLL/obj/Release
+/Lebara.INPlatform.Win.CDRProcessor.FR/Lebara.INPlatform.Win.CDRProcessor.BLL/obj/Debug/Lebara.INPlatform.Common.CDRProcessor.BLL.csproj.CoreCompileInputs.cache
+/Lebara.INPlatform.Win.CDRProcessor.FR/Lebara.INPlatform.Win.CDRProcessor.BLL/obj/Debug
+/Lebara.INPlatform.Win.CDRProcessor.FR/Lebara.INPlatform.Win.CDRProcessor.BLL/obj
+/Lebara.INPlatform.Win.CDRProcessor.FR/Lebara.INPlatform.Win.CDRProcessor/obj/Release/Lebara.INPlatform.Win.CDRProcessor.csproj.CoreCompileInputs.cache
+/Lebara.INPlatform.Win.CDRProcessor.FR/Lebara.INPlatform.Win.CDRProcessor/obj/Release
+/Lebara.INPlatform.Win.CDRProcessor.FR/Lebara.INPlatform.Win.CDRProcessor/obj/Debug/Lebara.INPlatform.Win.CDRProcessor.csproj.CoreCompileInputs.cache
+/Lebara.INPlatform.Win.CDRProcessor.FR/Lebara.INPlatform.Win.CDRProcessor/obj/Debug
+/Lebara.INPlatform.Win.CDRProcessor.FR/Lebara.INPlatform.Win.CDRProcessor/obj
+/Lebara.INPlatform.Win.CDRProcessor.FR
+/Lebara.INPlatform.Win.CDRProcessor.DE/Lebara.INPlatform.Win.CDRProcessor.Test/obj/Release/Lebara.INPlatform.Win.CDRProcessor.Test.csproj.CoreCompileInputs.cache
+/Lebara.INPlatform.Win.CDRProcessor.DE/Lebara.INPlatform.Win.CDRProcessor.Test/obj/Release
+/Lebara.INPlatform.Win.CDRProcessor.DE/Lebara.INPlatform.Win.CDRProcessor.Test/obj/Debug/Lebara.INPlatform.Win.CDRProcessor.Test.csproj.CoreCompileInputs.cache
+/Lebara.INPlatform.Win.CDRProcessor.DE/Lebara.INPlatform.Win.CDRProcessor.Test/obj/Debug
+/Lebara.INPlatform.Win.CDRProcessor.DE/Lebara.INPlatform.Win.CDRProcessor.Test/obj
+/Lebara.INPlatform.Win.CDRProcessor.DE/Lebara.INPlatform.Win.CDRProcessor.BLL/obj/Release/Lebara.INPlatform.Common.CDRProcessor.BLL.csproj.CoreCompileInputs.cache
+/Lebara.INPlatform.Win.CDRProcessor.DE/Lebara.INPlatform.Win.CDRProcessor.BLL/obj/Release
+/Lebara.INPlatform.Win.CDRProcessor.DE/Lebara.INPlatform.Win.CDRProcessor.BLL/obj/Debug/Lebara.INPlatform.Common.CDRProcessor.BLL.csproj.CoreCompileInputs.cache
+/Lebara.INPlatform.Win.CDRProcessor.DE/Lebara.INPlatform.Win.CDRProcessor.BLL/obj/Debug
+/Lebara.INPlatform.Win.CDRProcessor.DE/Lebara.INPlatform.Win.CDRProcessor.BLL/obj
+/Lebara.INPlatform.Win.CDRProcessor.DE/Lebara.INPlatform.Win.CDRProcessor/obj/Release/Lebara.INPlatform.Win.CDRProcessor.csproj.CoreCompileInputs.cache
+/Lebara.INPlatform.Win.CDRProcessor.DE/Lebara.INPlatform.Win.CDRProcessor/obj/Release
+/Lebara.INPlatform.Win.CDRProcessor.DE/Lebara.INPlatform.Win.CDRProcessor/obj/Debug/Lebara.INPlatform.Win.CDRProcessor.csproj.CoreCompileInputs.cache
+/Lebara.INPlatform.Win.CDRProcessor.DE/Lebara.INPlatform.Win.CDRProcessor/obj/Debug
+/Lebara.INPlatform.Win.CDRProcessor.DE/Lebara.INPlatform.Win.CDRProcessor/obj
+/Lebara.INPlatform.Win.CDRProcessor.DE
+/Lebara.IN2.Win.SMSAlert.UK.BLL/Lebara.IN2.Win.SMSAlert.UK.TestApp/obj/Release/Lebara.IN2.Win.SMSAlert.UK.TestApp.csproj.CoreCompileInputs.cache
+/Lebara.IN2.Win.SMSAlert.UK.BLL/Lebara.IN2.Win.SMSAlert.UK.TestApp/obj/Release
+/Lebara.IN2.Win.SMSAlert.UK.BLL/Lebara.IN2.Win.SMSAlert.UK.TestApp/obj/Debug/Lebara.IN2.Win.SMSAlert.UK.TestApp.csproj.CoreCompileInputs.cache
+/Lebara.IN2.Win.SMSAlert.UK.BLL/Lebara.IN2.Win.SMSAlert.UK.TestApp/obj/Debug
+/Lebara.IN2.Win.SMSAlert.UK.BLL/Lebara.IN2.Win.SMSAlert.UK.TestApp/obj
+/Lebara.IN2.Win.SMSAlert.UK.BLL/Lebara.IN2.Win.SMSAlert.UK.BLL/obj/Release/Lebara.IN2.Win.SMSAlert.UK.BLL.csproj.CoreCompileInputs.cache
+/Lebara.IN2.Win.SMSAlert.UK.BLL/Lebara.IN2.Win.SMSAlert.UK.BLL/obj/Release
+/Lebara.IN2.Win.SMSAlert.UK.BLL/Lebara.IN2.Win.SMSAlert.UK.BLL/obj/Debug/Lebara.IN2.Win.SMSAlert.UK.BLL.csproj.CoreCompileInputs.cache
+/Lebara.IN2.Win.SMSAlert.UK.BLL/Lebara.IN2.Win.SMSAlert.UK.BLL/obj/Debug
+/Lebara.IN2.Win.SMSAlert.UK.BLL/Lebara.IN2.Win.SMSAlert.UK.BLL/obj
+/Lebara.IN2.Win.SMSAlert.UK.BLL/Lebara.IN2.Win.SMSAlert.UK/obj/Release/Lebara.IN2.Win.SMSAlert.UK.csproj.CoreCompileInputs.cache
+/Lebara.IN2.Win.SMSAlert.UK.BLL/Lebara.IN2.Win.SMSAlert.UK/obj/Release
+/Lebara.IN2.Win.SMSAlert.UK.BLL/Lebara.IN2.Win.SMSAlert.UK/obj/Debug/Lebara.IN2.Win.SMSAlert.UK.csproj.CoreCompileInputs.cache
+/Lebara.IN2.Win.SMSAlert.UK.BLL/Lebara.IN2.Win.SMSAlert.UK/obj/Debug
+/Lebara.IN2.Win.SMSAlert.UK.BLL/Lebara.IN2.Win.SMSAlert.UK/obj
+/Lebara.IN2.Win.SMSAlert.UK.BLL
+/Lebara.IN2.Win.SMSAlert.FR.BLL/Lebara.IN2.Win.SMSAlert.FR.TestApp/obj/Release/Lebara.IN2.Win.SMSAlert.FR.TestApp.csproj.CoreCompileInputs.cache
+/Lebara.IN2.Win.SMSAlert.FR.BLL/Lebara.IN2.Win.SMSAlert.FR.TestApp/obj/Release
+/Lebara.IN2.Win.SMSAlert.FR.BLL/Lebara.IN2.Win.SMSAlert.FR.TestApp/obj/Debug/Lebara.IN2.Win.SMSAlert.FR.TestApp.csproj.CoreCompileInputs.cache
+/Lebara.IN2.Win.SMSAlert.FR.BLL/Lebara.IN2.Win.SMSAlert.FR.TestApp/obj/Debug
+/Lebara.IN2.Win.SMSAlert.FR.BLL/Lebara.IN2.Win.SMSAlert.FR.TestApp/obj
+/Lebara.IN2.Win.SMSAlert.FR.BLL/Lebara.IN2.Win.SMSAlert.FR.BLL/obj/Release/Lebara.IN2.Win.SMSAlert.FR.BLL.csproj.CoreCompileInputs.cache
+/Lebara.IN2.Win.SMSAlert.FR.BLL/Lebara.IN2.Win.SMSAlert.FR.BLL/obj/Release
+/Lebara.IN2.Win.SMSAlert.FR.BLL/Lebara.IN2.Win.SMSAlert.FR.BLL/obj/Debug/Lebara.IN2.Win.SMSAlert.FR.BLL.csproj.CoreCompileInputs.cache
+/Lebara.IN2.Win.SMSAlert.FR.BLL/Lebara.IN2.Win.SMSAlert.FR.BLL/obj/Debug
+/Lebara.IN2.Win.SMSAlert.FR.BLL/Lebara.IN2.Win.SMSAlert.FR.BLL/obj
+/Lebara.IN2.Win.SMSAlert.FR.BLL/Lebara.IN2.Win.SMSAlert.FR/obj/Release/Lebara.IN2.Win.SMSAlert.FR.csproj.CoreCompileInputs.cache
+/Lebara.IN2.Win.SMSAlert.FR.BLL/Lebara.IN2.Win.SMSAlert.FR/obj/Release
+/Lebara.IN2.Win.SMSAlert.FR.BLL/Lebara.IN2.Win.SMSAlert.FR/obj/Debug/Lebara.IN2.Win.SMSAlert.FR.csproj.CoreCompileInputs.cache
+/Lebara.IN2.Win.SMSAlert.FR.BLL/Lebara.IN2.Win.SMSAlert.FR/obj/Debug
+/Lebara.IN2.Win.SMSAlert.FR.BLL/Lebara.IN2.Win.SMSAlert.FR/obj
+/Lebara.IN2.Win.SMSAlert.FR.BLL
+/Lebara.IN2.Win.CDRProcesser.DE.BLL/Lebara.IN2.Win.SMSAlert.UK.TestApp/obj/Release/Lebara.IN2.Win.SMSAlert.UK.TestApp.csproj.CoreCompileInputs.cache
+/Lebara.IN2.Win.CDRProcesser.DE.BLL/Lebara.IN2.Win.SMSAlert.UK.TestApp/obj/Release
+/Lebara.IN2.Win.CDRProcesser.DE.BLL/Lebara.IN2.Win.SMSAlert.UK.TestApp/obj/Debug/Lebara.IN2.Win.SMSAlert.UK.TestApp.csproj.CoreCompileInputs.cache
+/Lebara.IN2.Win.CDRProcesser.DE.BLL/Lebara.IN2.Win.SMSAlert.UK.TestApp/obj/Debug
+/Lebara.IN2.Win.CDRProcesser.DE.BLL/Lebara.IN2.Win.SMSAlert.UK.TestApp/obj
+/Lebara.IN2.Win.CDRProcesser.DE.BLL/Lebara.IN2.Win.SMSAlert.UK.BLL/obj/Release/Lebara.IN2.Win.SMSAlert.UK.BLL.csproj.CoreCompileInputs.cache
+/Lebara.IN2.Win.CDRProcesser.DE.BLL/Lebara.IN2.Win.SMSAlert.UK.BLL/obj/Release
+/Lebara.IN2.Win.CDRProcesser.DE.BLL/Lebara.IN2.Win.SMSAlert.UK.BLL/obj/Debug/Lebara.IN2.Win.SMSAlert.UK.BLL.csproj.CoreCompileInputs.cache
+/Lebara.IN2.Win.CDRProcesser.DE.BLL/Lebara.IN2.Win.SMSAlert.UK.BLL/obj/Debug
+/Lebara.IN2.Win.CDRProcesser.DE.BLL/Lebara.IN2.Win.SMSAlert.UK.BLL/obj
+/Lebara.IN2.Win.CDRProcesser.DE.BLL/Lebara.IN2.Win.SMSAlert.UK/obj/Release/Lebara.IN2.Win.SMSAlert.UK.csproj.CoreCompileInputs.cache
+/Lebara.IN2.Win.CDRProcesser.DE.BLL/Lebara.IN2.Win.SMSAlert.UK/obj/Release
+/Lebara.IN2.Win.CDRProcesser.DE.BLL/Lebara.IN2.Win.SMSAlert.UK/obj/Debug/Lebara.IN2.Win.SMSAlert.UK.csproj.CoreCompileInputs.cache
+/Lebara.IN2.Win.CDRProcesser.DE.BLL/Lebara.IN2.Win.SMSAlert.UK/obj/Debug
+/Lebara.IN2.Win.CDRProcesser.DE.BLL/Lebara.IN2.Win.SMSAlert.UK/obj
+/Lebara.IN2.Win.CDRProcesser.DE.BLL
+/Lebara.IATTopup/Main/Lebara.IATTopup.Schema/obj/Release/Lebara.IATTopup.Schema.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/Lebara.IATTopup.Schema/obj/Release
+/Lebara.IATTopup/Main/Lebara.IATTopup.Schema/obj/Debug/Lebara.IATTopup.Schema.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/Lebara.IATTopup.Schema/obj/Debug
+/Lebara.IATTopup/Main/Lebara.IATTopup.Schema/obj
+/Lebara.IATTopup/Main/IATTopup.Service.Utility/obj/Release/IATTopup.Service.Utility.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service.Utility/obj/Release
+/Lebara.IATTopup/Main/IATTopup.Service.Utility/obj/Debug/IATTopup.Service.Utility.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service.Utility/obj/Debug
+/Lebara.IATTopup/Main/IATTopup.Service.Utility/obj
+/Lebara.IATTopup/Main/IATTopup.Service/Tests/IATTopup.Service.Client/obj/Release/IATTopup.Service.Client.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service/Tests/IATTopup.Service.Client/obj/Release
+/Lebara.IATTopup/Main/IATTopup.Service/Tests/IATTopup.Service.Client/obj/Debug/IATTopup.Service.Client.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service/Tests/IATTopup.Service.Client/obj/Debug
+/Lebara.IATTopup/Main/IATTopup.Service/Tests/IATTopup.Service.Client/obj
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.ServiceImplementation/obj/Release/IATTopup.Service.ServiceImplementation.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.ServiceImplementation/obj/Release
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.ServiceImplementation/obj/Debug/IATTopup.Service.ServiceImplementation.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.ServiceImplementation/obj/Debug
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.ServiceImplementation/obj
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.ServiceContracts/obj/Release/IATTopup.Service.ServiceContracts.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.ServiceContracts/obj/Release
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.ServiceContracts/obj/Debug/IATTopup.Service.ServiceContracts.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.ServiceContracts/obj/Debug
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.ServiceContracts/obj
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.MessageContracts/obj/Release/IATTopup.Service.MessageContracts.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.MessageContracts/obj/Release
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.MessageContracts/obj/Debug/IATTopup.Service.MessageContracts.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.MessageContracts/obj/Debug
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.MessageContracts/obj
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.FaultContracts/obj/Release/IATTopup.Service.FaultContracts.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.FaultContracts/obj/Release
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.FaultContracts/obj/Debug/IATTopup.Service.FaultContracts.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.FaultContracts/obj/Debug
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.FaultContracts/obj
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.DataContracts/obj/Release/IATTopup.Service.DataContracts.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.DataContracts/obj/Release
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.DataContracts/obj/Debug/IATTopup.Service.DataContracts.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.DataContracts/obj/Debug
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface/IATTopup.Service.DataContracts/obj
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Service Interface
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Resource Access/IATTopup.Service.DataAccess/obj/Release/IATTopup.Service.DataAccess.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Resource Access/IATTopup.Service.DataAccess/obj/Release
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Resource Access/IATTopup.Service.DataAccess/obj/Debug/IATTopup.Service.DataAccess.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Resource Access/IATTopup.Service.DataAccess/obj/Debug
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Resource Access/IATTopup.Service.DataAccess/obj
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Business Logic/IATTopup.Service.BusinessLogic/obj/Release/IATTopup.Service.BusinessLogic.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Business Logic/IATTopup.Service.BusinessLogic/obj/Release
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Business Logic/IATTopup.Service.BusinessLogic/obj/Debug/IATTopup.Service.BusinessLogic.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Business Logic/IATTopup.Service.BusinessLogic/obj/Debug
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Business Logic/IATTopup.Service.BusinessLogic/obj
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Business Logic/IATTopup.Service.BusinessEntities/obj/Release/IATTopup.Service.BusinessEntities.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Business Logic/IATTopup.Service.BusinessEntities/obj/Release
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Business Logic/IATTopup.Service.BusinessEntities/obj/Debug/IATTopup.Service.BusinessEntities.csproj.CoreCompileInputs.cache
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Business Logic/IATTopup.Service.BusinessEntities/obj/Debug
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Business Logic/IATTopup.Service.BusinessEntities/obj
+/Lebara.IATTopup/Main/IATTopup.Service/Source/Business Logic
+/Lebara.IATTopup/Main/IATTopup.Service/Source
+/Lebara.IATTopup/Main/IATTopup.Service
+/Lebara.IATTopup/Main
+/Lebara.Hackday.Reseller.Web.UI/Lebara.Hackday.Reseller.Web.UI/obj/Release/Lebara.Hackday.Reseller.Web.UI.csproj.CoreCompileInputs.cache
+/Lebara.Hackday.Reseller.Web.UI/Lebara.Hackday.Reseller.Web.UI/obj/Release
+/Lebara.Hackday.Reseller.Web.UI/Lebara.Hackday.Reseller.Web.UI/obj/Debug/Lebara.Hackday.Reseller.Web.UI.csproj.CoreCompileInputs.cache
+/Lebara.Hackday.Reseller.Web.UI/Lebara.Hackday.Reseller.Web.UI/obj/Debug
+/Lebara.Hackday.Reseller.Web.UI/Lebara.Hackday.Reseller.Web.UI/obj
+/Lebara.ESB.Web.Services.Authentication/Lebara.ESB.Web.Services.Authentication/obj/Release/Lebara.ESB.Web.Services.Authentication.csproj.CoreCompileInputs.cache
+/Lebara.ESB.Web.Services.Authentication/Lebara.ESB.Web.Services.Authentication/obj/Release
+/Lebara.ESB.Web.Services.Authentication/Lebara.ESB.Web.Services.Authentication/obj/Debug/Lebara.ESB.Web.Services.Authentication.csproj.CoreCompileInputs.cache
+/Lebara.ESB.Web.Services.Authentication/Lebara.ESB.Web.Services.Authentication/obj/Debug
+/Lebara.ESB.Web.Services.Authentication/Lebara.ESB.Web.Services.Authentication/obj
+/Lebara.Epin.FileManager.Win.Service/Lebara.Epin.FileManager.Win.Service/obj/Release/Lebara.Epin.FileManager.Win.Service.csproj.CoreCompileInputs.cache
+/Lebara.Epin.FileManager.Win.Service/Lebara.Epin.FileManager.Win.Service/obj/Release
+/Lebara.Epin.FileManager.Win.Service/Lebara.Epin.FileManager.Win.Service/obj/Debug/Lebara.Epin.FileManager.Win.Service.csproj.CoreCompileInputs.cache
+/Lebara.Epin.FileManager.Win.Service/Lebara.Epin.FileManager.Win.Service/obj/Debug
+/Lebara.Epin.FileManager.Win.Service/Lebara.Epin.FileManager.Win.Service/obj
+/Lebara.Epin.FileManager.Win.Service/Lebara.Epin.FileManager.Common/obj/Release/Lebara.Epin.FileManager.Common.csproj.CoreCompileInputs.cache
+/Lebara.Epin.FileManager.Win.Service/Lebara.Epin.FileManager.Common/obj/Release
+/Lebara.Epin.FileManager.Win.Service/Lebara.Epin.FileManager.Common/obj/Debug/Lebara.Epin.FileManager.Common.csproj.CoreCompileInputs.cache
+/Lebara.Epin.FileManager.Win.Service/Lebara.Epin.FileManager.Common/obj/Debug
+/Lebara.Epin.FileManager.Win.Service/Lebara.Epin.FileManager.Common/obj
+/Lebara.Epin.FileManager.Win.Service/Lebara.Epin.FileManager.App/obj/Release/Lebara.Epin.FileManager.App.csproj.CoreCompileInputs.cache
+/Lebara.Epin.FileManager.Win.Service/Lebara.Epin.FileManager.App/obj/Release
+/Lebara.Epin.FileManager.Win.Service/Lebara.Epin.FileManager.App/obj/Debug/Lebara.Epin.FileManager.App.csproj.CoreCompileInputs.cache
+/Lebara.Epin.FileManager.Win.Service/Lebara.Epin.FileManager.App/obj/Debug
+/Lebara.Epin.FileManager.Win.Service/Lebara.Epin.FileManager.App/obj
+/Lebara.Epin.FileManager.Win.Service
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.ServiceImplementation/obj/Release/EmergencyCredit.WCF.ServiceImplementation.csproj.CoreCompileInputs.cache
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.ServiceImplementation/obj/Release
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.ServiceImplementation/obj/Debug/EmergencyCredit.WCF.ServiceImplementation.csproj.CoreCompileInputs.cache
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.ServiceImplementation/obj/Debug
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.ServiceImplementation/obj
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.ServiceContracts/obj/Release/EmergencyCredit.WCF.ServiceContracts.csproj.CoreCompileInputs.cache
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.ServiceContracts/obj/Release
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.ServiceContracts/obj/Debug/EmergencyCredit.WCF.ServiceContracts.csproj.CoreCompileInputs.cache
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.ServiceContracts/obj/Debug
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.ServiceContracts/obj
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.MessageContracts/obj/Release/EmergencyCredit.WCF.MessageContracts.csproj.CoreCompileInputs.cache
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.MessageContracts/obj/Release
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.MessageContracts/obj/Debug/EmergencyCredit.WCF.MessageContracts.csproj.CoreCompileInputs.cache
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.MessageContracts/obj/Debug
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.MessageContracts/obj
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.FaultContracts/obj/Release/EmergencyCredit.WCF.FaultContracts.csproj.CoreCompileInputs.cache
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.FaultContracts/obj/Release
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.FaultContracts/obj/Debug/EmergencyCredit.WCF.FaultContracts.csproj.CoreCompileInputs.cache
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.FaultContracts/obj/Debug
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.FaultContracts/obj
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.DataContracts/obj/Release/EmergencyCredit.WCF.DataContracts.csproj.CoreCompileInputs.cache
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.DataContracts/obj/Release
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.DataContracts/obj/Debug/EmergencyCredit.WCF.DataContracts.csproj.CoreCompileInputs.cache
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.DataContracts/obj/Debug
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface/MicroCredit.WCF.DataContracts/obj
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Service Interface
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Resource Access/MicroCredit.WCF.DataAccess/obj/Release/MicroCredit.WCF.DataAccess.csproj.CoreCompileInputs.cache
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Resource Access/MicroCredit.WCF.DataAccess/obj/Release
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Resource Access/MicroCredit.WCF.DataAccess/obj/Debug/MicroCredit.WCF.DataAccess.csproj.CoreCompileInputs.cache
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Resource Access/MicroCredit.WCF.DataAccess/obj/Debug
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Resource Access/MicroCredit.WCF.DataAccess/obj
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Business Logic/MicroCredit.WCF.BusinessLogic/obj/Release/EmergencyCredit.WCF.BusinessLogic.csproj.CoreCompileInputs.cache
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Business Logic/MicroCredit.WCF.BusinessLogic/obj/Release
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Business Logic/MicroCredit.WCF.BusinessLogic/obj/Debug/EmergencyCredit.WCF.BusinessLogic.csproj.CoreCompileInputs.cache
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Business Logic/MicroCredit.WCF.BusinessLogic/obj/Debug
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Business Logic/MicroCredit.WCF.BusinessLogic/obj
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Business Logic/MicroCredit.WCF.BusinessEntities/obj/Release/EmergencyCredit.WCF.BusinessEntities.csproj.CoreCompileInputs.cache
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Business Logic/MicroCredit.WCF.BusinessEntities/obj/Release
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Business Logic/MicroCredit.WCF.BusinessEntities/obj/Debug/EmergencyCredit.WCF.BusinessEntities.csproj.CoreCompileInputs.cache
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Business Logic/MicroCredit.WCF.BusinessEntities/obj/Debug
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Business Logic/MicroCredit.WCF.BusinessEntities/obj
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source/Business Logic
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/Source
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/obj/Release/EmergencyCreditWebRole.csproj.CoreCompileInputs.cache
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/obj/Release
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/obj/Debug/EmergencyCreditWebRole.csproj.CoreCompileInputs.cache
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/obj/Debug
+/Lebara.EmergencyCredit/EmergencyCreditWebRole/obj
+/Lebara.EmergencyCredit/EmergencyCreditWebRole
+/Lebara.Distributor.Registration/Lebara.Distributor.Registration/obj/Release/Lebara.Distributor.Registration.csproj.CoreCompileInputs.cache
+/Lebara.Distributor.Registration/Lebara.Distributor.Registration/obj/Release
+/Lebara.Distributor.Registration/Lebara.Distributor.Registration/obj/Debug/Lebara.Distributor.Registration.csproj.CoreCompileInputs.cache
+/Lebara.Distributor.Registration/Lebara.Distributor.Registration/obj/Debug
+/Lebara.Distributor.Registration/Lebara.Distributor.Registration/obj
+/Lebara.DE.MNP.CRMPages.UI/Lebara.DE.MNP.CRMPages.UI/obj/Release/Lebara.DE.MNP.CRMPages.UI.csproj.CoreCompileInputs.cache
+/Lebara.DE.MNP.CRMPages.UI/Lebara.DE.MNP.CRMPages.UI/obj/Release
+/Lebara.DE.MNP.CRMPages.UI/Lebara.DE.MNP.CRMPages.UI/obj/Debug/Lebara.DE.MNP.CRMPages.UI.csproj.CoreCompileInputs.cache
+/Lebara.DE.MNP.CRMPages.UI/Lebara.DE.MNP.CRMPages.UI/obj/Debug
+/Lebara.DE.MNP.CRMPages.UI/Lebara.DE.MNP.CRMPages.UI/obj
+/Lebara.CRMProvisioning/Lebara.CRMProvisioning/obj/Release/Lebara.CRMProvisioning.csproj.CoreCompileInputs.cache
+/Lebara.CRMProvisioning/Lebara.CRMProvisioning/obj/Release
+/Lebara.CRMProvisioning/Lebara.CRMProvisioning/obj/Debug/Lebara.CRMProvisioning.csproj.CoreCompileInputs.cache
+/Lebara.CRMProvisioning/Lebara.CRMProvisioning/obj/Debug
+/Lebara.CRMProvisioning/Lebara.CRMProvisioning/obj
+/Lebara.CRMIntegration.OCS.Service/packages/libphonenumber-csharp-portable.1.0.0.2/obj/Release/PhoneNumbers.csproj.CoreCompileInputs.cache
+/Lebara.CRMIntegration.OCS.Service/packages/libphonenumber-csharp-portable.1.0.0.2/obj/Release
+/Lebara.CRMIntegration.OCS.Service/packages/libphonenumber-csharp-portable.1.0.0.2/obj/Debug/PhoneNumbers.csproj.CoreCompileInputs.cache
+/Lebara.CRMIntegration.OCS.Service/packages/libphonenumber-csharp-portable.1.0.0.2/obj/Debug
+/Lebara.CRMIntegration.OCS.Service/packages/libphonenumber-csharp-portable.1.0.0.2/obj
+/Lebara.CRMIntegration.OCS.Service/Lebara.CRMIntegration.OCS.Service/obj/Release/Lebara.CRMIntegration.OCS.Service.csproj.CoreCompileInputs.cache
+/Lebara.CRMIntegration.OCS.Service/Lebara.CRMIntegration.OCS.Service/obj/Release
+/Lebara.CRMIntegration.OCS.Service/Lebara.CRMIntegration.OCS.Service/obj/Debug/Lebara.CRMIntegration.OCS.Service.csproj.CoreCompileInputs.cache
+/Lebara.CRMIntegration.OCS.Service/Lebara.CRMIntegration.OCS.Service/obj/Debug
+/Lebara.CRMIntegration.OCS.Service/Lebara.CRMIntegration.OCS.Service/obj
+/Lebara.CRMIntegration.OCS.Service
+/Lebara.CRMCalltype.Web.UI/Lebara.CRMCalltype.Web.UI/obj/Release/Lebara.CRMCalltype.Web.UI.csproj.CoreCompileInputs.cache
+/Lebara.CRMCalltype.Web.UI/Lebara.CRMCalltype.Web.UI/obj/Release
+/Lebara.CRMCalltype.Web.UI/Lebara.CRMCalltype.Web.UI/obj/Debug/Lebara.CRMCalltype.Web.UI.csproj.CoreCompileInputs.cache
+/Lebara.CRMCalltype.Web.UI/Lebara.CRMCalltype.Web.UI/obj/Debug
+/Lebara.CRMCalltype.Web.UI/Lebara.CRMCalltype.Web.UI/obj
+/Lebara.CRMCalltype.Web.UI/Backup/Lebara.CRMCalltype.Web.UI/obj/Release/Lebara.CRMCalltype.Web.UI.csproj.CoreCompileInputs.cache
+/Lebara.CRMCalltype.Web.UI/Backup/Lebara.CRMCalltype.Web.UI/obj/Release
+/Lebara.CRMCalltype.Web.UI/Backup/Lebara.CRMCalltype.Web.UI/obj/Debug/Lebara.CRMCalltype.Web.UI.csproj.CoreCompileInputs.cache
+/Lebara.CRMCalltype.Web.UI/Backup/Lebara.CRMCalltype.Web.UI/obj/Debug
+/Lebara.CRMCalltype.Web.UI/Backup/Lebara.CRMCalltype.Web.UI/obj
+/Lebara.CRMCalltype.Web.UI
+/Lebara.CRM.WebPages/Lebara.CRM.DE.Pages/obj/Release/Lebara.CRM.DE.Pages.csproj.CoreCompileInputs.cache
+/Lebara.CRM.WebPages/Lebara.CRM.DE.Pages/obj/Release
+/Lebara.CRM.WebPages/Lebara.CRM.DE.Pages/obj/Debug/Lebara.CRM.DE.Pages.csproj.CoreCompileInputs.cache
+/Lebara.CRM.WebPages/Lebara.CRM.DE.Pages/obj/Debug
+/Lebara.CRM.WebPages/Lebara.CRM.DE.Pages/obj
+/Lebara.CreditTransfer.Web.ServiceCV2/Lebara.CreditTransfer.Web.Service/obj/Release/Lebara.CreditTransfer.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.CreditTransfer.Web.ServiceCV2/Lebara.CreditTransfer.Web.Service/obj/Release
+/Lebara.CreditTransfer.Web.ServiceCV2/Lebara.CreditTransfer.Web.Service/obj/Debug/Lebara.CreditTransfer.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.CreditTransfer.Web.ServiceCV2/Lebara.CreditTransfer.Web.Service/obj/Debug
+/Lebara.CreditTransfer.Web.ServiceCV2/Lebara.CreditTransfer.Web.Service/obj
+/Lebara.CreditTransfer.Web.Service/Lebara.CreditTransfer.Web.Service/obj/Release/Lebara.CreditTransfer.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.CreditTransfer.Web.Service/Lebara.CreditTransfer.Web.Service/obj/Release
+/Lebara.CreditTransfer.Web.Service/Lebara.CreditTransfer.Web.Service/obj/Debug/Lebara.CreditTransfer.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.CreditTransfer.Web.Service/Lebara.CreditTransfer.Web.Service/obj/Debug
+/Lebara.CreditTransfer.Web.Service/Lebara.CreditTransfer.Web.Service/obj
+/Lebara.CreditTransfer.CRM.Web.UI/Lebara.CreditTransfer.CRM.Web.UI/obj/Release/Lebara.CreditTransfer.CRM.Web.UI.csproj.CoreCompileInputs.cache
+/Lebara.CreditTransfer.CRM.Web.UI/Lebara.CreditTransfer.CRM.Web.UI/obj/Release
+/Lebara.CreditTransfer.CRM.Web.UI/Lebara.CreditTransfer.CRM.Web.UI/obj/Debug/Lebara.CreditTransfer.CRM.Web.UI.csproj.CoreCompileInputs.cache
+/Lebara.CreditTransfer.CRM.Web.UI/Lebara.CreditTransfer.CRM.Web.UI/obj/Debug
+/Lebara.CreditTransfer.CRM.Web.UI/Lebara.CreditTransfer.CRM.Web.UI/obj
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/WindowsServiceDEWholeSaleFix/obj/Release/WindowsServiceDEWholeSaleFix.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/WindowsServiceDEWholeSaleFix/obj/Release
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/WindowsServiceDEWholeSaleFix/obj/Debug/WindowsServiceDEWholeSaleFix.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/WindowsServiceDEWholeSaleFix/obj/Debug
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/WindowsServiceDEWholeSaleFix/obj
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/ExistingBundleMigration/obj/Release/Lebara.Common.ExistingBundleMigration.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/ExistingBundleMigration/obj/Release
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/ExistingBundleMigration/obj/Debug/Lebara.Common.ExistingBundleMigration.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/ExistingBundleMigration/obj/Debug
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/ExistingBundleMigration/obj
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/DE_OnlineAndWeb_WholeSale/obj/Release/DE_OnlineAndWeb_WholeSale.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/DE_OnlineAndWeb_WholeSale/obj/Release
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/DE_OnlineAndWeb_WholeSale/obj/Debug/DE_OnlineAndWeb_WholeSale.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/DE_OnlineAndWeb_WholeSale/obj/Debug
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/DE_OnlineAndWeb_WholeSale/obj
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/DE_BundlesWholesaleDeleteForMigration/obj/Release/DE_BundlesWholesaleDeleteForMigration.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/DE_BundlesWholesaleDeleteForMigration/obj/Release
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/DE_BundlesWholesaleDeleteForMigration/obj/Debug/DE_BundlesWholesaleDeleteForMigration.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/DE_BundlesWholesaleDeleteForMigration/obj/Debug
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/DE_BundlesWholesaleDeleteForMigration/obj
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/DE_Bar_RoamingMSISDNs/obj/Release/DE_Bar_RoamingMSISDNs.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/DE_Bar_RoamingMSISDNs/obj/Release
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/DE_Bar_RoamingMSISDNs/obj/Debug/DE_Bar_RoamingMSISDNs.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/DE_Bar_RoamingMSISDNs/obj/Debug
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/DE_Bar_RoamingMSISDNs/obj
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/AccountAdjustmentTool/obj/Release/AccountAdjustmentTool.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/AccountAdjustmentTool/obj/Release
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/AccountAdjustmentTool/obj/Debug/AccountAdjustmentTool.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/AccountAdjustmentTool/obj/Debug
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration/AccountAdjustmentTool/obj
+/Lebara.Common.Utilties/Lebara.Common.ExistingBundleMigration
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App.Utility/obj/Release/Lebara.BundleIntegration.Console.App.Utility.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App.Utility/obj/Release
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App.Utility/obj/Debug/Lebara.BundleIntegration.Console.App.Utility.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App.Utility/obj/Debug
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App.Utility/obj
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App.DAL/obj/Release/Lebara.BundleIntegration.Console.App.DAL.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App.DAL/obj/Release
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App.DAL/obj/Debug/Lebara.BundleIntegration.Console.App.DAL.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App.DAL/obj/Debug
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App.DAL/obj
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App.BLL/obj/Release/Lebara.BundleIntegration.Console.App.BLL.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App.BLL/obj/Release
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App.BLL/obj/Debug/Lebara.BundleIntegration.Console.App.BLL.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App.BLL/obj/Debug
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App.BLL/obj
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App/obj/Release/Lebara.BundleIntegration.Console.App.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App/obj/Release
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App/obj/Debug/Lebara.BundleIntegration.Console.App.csproj.CoreCompileInputs.cache
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App/obj/Debug
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App/Lebara.BundleIntegration.Console.App/obj
+/Lebara.Common.Utilties/Lebara.BundleIntegration.Console.App
+/Lebara.Common.Utilties
+/Lebara.Common.ResellerIFrames.Web.UI/Lebara.Common.ResellerIFrames.Web.UI/obj/Release/Lebara.Common.ResellerIFrames.Web.UI.csproj.CoreCompileInputs.cache
+/Lebara.Common.ResellerIFrames.Web.UI/Lebara.Common.ResellerIFrames.Web.UI/obj/Release
+/Lebara.Common.ResellerIFrames.Web.UI/Lebara.Common.ResellerIFrames.Web.UI/obj/Debug/Lebara.Common.ResellerIFrames.Web.UI.csproj.CoreCompileInputs.cache
+/Lebara.Common.ResellerIFrames.Web.UI/Lebara.Common.ResellerIFrames.Web.UI/obj/Debug
+/Lebara.Common.ResellerIFrames.Web.UI/Lebara.Common.ResellerIFrames.Web.UI/obj
+/Lebara.Common/Lebara.Common.Utilities/obj/Release/Lebara.Common.Utilities.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.Utilities/obj/Release
+/Lebara.Common/Lebara.Common.Utilities/obj/Debug/Lebara.Common.Utilities.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.Utilities/obj/Debug
+/Lebara.Common/Lebara.Common.Utilities/obj
+/Lebara.Common/Lebara.Common.ESB.PipelineComponents/obj/Release/Lebara.Common.ESB.PipelineComponents.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.ESB.PipelineComponents/obj/Release
+/Lebara.Common/Lebara.Common.ESB.PipelineComponents/obj/Debug/Lebara.Common.ESB.PipelineComponents.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.ESB.PipelineComponents/obj/Debug
+/Lebara.Common/Lebara.Common.ESB.PipelineComponents/obj
+/Lebara.Common/Lebara.Common.ESB.MessageInspector/obj/Release/Lebara.Common.ESB.MessageInspector.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.ESB.MessageInspector/obj/Release
+/Lebara.Common/Lebara.Common.ESB.MessageInspector/obj/Debug/Lebara.Common.ESB.MessageInspector.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.ESB.MessageInspector/obj/Debug
+/Lebara.Common/Lebara.Common.ESB.MessageInspector/obj
+/Lebara.Common/Lebara.Common.ESB.Helper/obj/Release/Lebara.Common.ESB.Helper.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.ESB.Helper/obj/Release
+/Lebara.Common/Lebara.Common.ESB.Helper/obj/Debug/Lebara.Common.ESB.Helper.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.ESB.Helper/obj/Debug
+/Lebara.Common/Lebara.Common.ESB.Helper/obj
+/Lebara.Common/Lebara.Common.Common.Test/obj/Release/Lebara.Common.Common.Test.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.Common.Test/obj/Release
+/Lebara.Common/Lebara.Common.Common.Test/obj/Debug/Lebara.Common.Common.Test.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.Common.Test/obj/Debug
+/Lebara.Common/Lebara.Common.Common.Test/obj
+/Lebara.Common/Lebara.Common.Common.SMSClient/obj/Release/Lebara.Common.Common.SMSClient.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.Common.SMSClient/obj/Release
+/Lebara.Common/Lebara.Common.Common.SMSClient/obj/Debug/Lebara.Common.Common.SMSClient.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.Common.SMSClient/obj/Debug
+/Lebara.Common/Lebara.Common.Common.SMSClient/obj
+/Lebara.Common/Lebara.Common.Common.Logging.Test/obj/Release/Lebara.Common.Common.Logging.Test.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.Common.Logging.Test/obj/Release
+/Lebara.Common/Lebara.Common.Common.Logging.Test/obj/Debug/Lebara.Common.Common.Logging.Test.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.Common.Logging.Test/obj/Debug
+/Lebara.Common/Lebara.Common.Common.Logging.Test/obj
+/Lebara.Common/Lebara.Common.Common.Logging/obj/Release/Lebara.Common.Common.Logging.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.Common.Logging/obj/Release
+/Lebara.Common/Lebara.Common.Common.Logging/obj/Debug/Lebara.Common.Common.Logging.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.Common.Logging/obj/Debug
+/Lebara.Common/Lebara.Common.Common.Logging/obj
+/Lebara.Common/Lebara.Common.BAM/obj/Release/Lebara.Common.BAM.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.BAM/obj/Release
+/Lebara.Common/Lebara.Common.BAM/obj/Debug/Lebara.Common.BAM.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.BAM/obj/Debug
+/Lebara.Common/Lebara.Common.BAM/obj
+/Lebara.Common/Lebara.Common.AuthNAuthZ/obj/Release/Lebara.Common.AuthNAuthZ.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.AuthNAuthZ/obj/Release
+/Lebara.Common/Lebara.Common.AuthNAuthZ/obj/Debug/Lebara.Common.AuthNAuthZ.csproj.CoreCompileInputs.cache
+/Lebara.Common/Lebara.Common.AuthNAuthZ/obj/Debug
+/Lebara.Common/Lebara.Common.AuthNAuthZ/obj
+/Lebara.Common
+/Lebara.CMP.Comms.Viewer.Latest/Lebara.CampaignManagement.Web.CommsViewer/Lebara.CampaignManagement.Web.CommsViewer/obj/Release/Lebara.CampaignManagement.Web.CommsViewer.csproj.CoreCompileInputs.cache
+/Lebara.CMP.Comms.Viewer.Latest/Lebara.CampaignManagement.Web.CommsViewer/Lebara.CampaignManagement.Web.CommsViewer/obj/Release
+/Lebara.CMP.Comms.Viewer.Latest/Lebara.CampaignManagement.Web.CommsViewer/Lebara.CampaignManagement.Web.CommsViewer/obj/Debug/Lebara.CampaignManagement.Web.CommsViewer.csproj.CoreCompileInputs.cache
+/Lebara.CMP.Comms.Viewer.Latest/Lebara.CampaignManagement.Web.CommsViewer/Lebara.CampaignManagement.Web.CommsViewer/obj/Debug
+/Lebara.CMP.Comms.Viewer.Latest/Lebara.CampaignManagement.Web.CommsViewer/Lebara.CampaignManagement.Web.CommsViewer/obj
+/Lebara.ChinaUP.ExpiryNotify.App/Lebara.ChinaUP.ExpiryNotify.App/obj/Release/Lebara.ChinaUP.ExpiryNotify.App.csproj.CoreCompileInputs.cache
+/Lebara.ChinaUP.ExpiryNotify.App/Lebara.ChinaUP.ExpiryNotify.App/obj/Release
+/Lebara.ChinaUP.ExpiryNotify.App/Lebara.ChinaUP.ExpiryNotify.App/obj/Debug/Lebara.ChinaUP.ExpiryNotify.App.csproj.CoreCompileInputs.cache
+/Lebara.ChinaUP.ExpiryNotify.App/Lebara.ChinaUP.ExpiryNotify.App/obj/Debug
+/Lebara.CampaignManagement.Web.CommsViewer-CRM2011/Lebara.CampaignManagement.Web.CommsViewer/obj/Release/Lebara.CampaignManagement.Web.CommsViewer.csproj.CoreCompileInputs.cache
+/Lebara.CampaignManagement.Web.CommsViewer-CRM2011/Lebara.CampaignManagement.Web.CommsViewer/obj/Release
+/Lebara.CampaignManagement.Web.CommsViewer-CRM2011/Lebara.CampaignManagement.Web.CommsViewer/obj/Debug/Lebara.CampaignManagement.Web.CommsViewer.csproj.CoreCompileInputs.cache
+/Lebara.CampaignManagement.Web.CommsViewer-CRM2011/Lebara.CampaignManagement.Web.CommsViewer/obj/Debug
+/Lebara.CampaignManagement.Web.CommsViewer-CRM2011/Lebara.CampaignManagement.Web.CommsViewer/obj
+/Lebara.CacheManager/Lebara.CacheManager/obj/Release/Lebara.CacheManager.csproj.CoreCompileInputs.cache
+/Lebara.CacheManager/Lebara.CacheManager/obj/Release
+/Lebara.CacheManager/Lebara.CacheManager/obj/Debug/Lebara.CacheManager.csproj.CoreCompileInputs.cache
+/Lebara.CacheManager/Lebara.CacheManager/obj/Debug
+/Lebara.CacheManager/Lebara.CacheManager/obj
+/Lebara.BusinesEventNotification/MessagePoller/obj/Release/MessagePoller.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/MessagePoller/obj/Release
+/Lebara.BusinesEventNotification/MessagePoller/obj/Debug/MessagePoller.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/MessagePoller/obj/Debug
+/Lebara.BusinesEventNotification/MessagePoller/obj
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.UKHandler/obj/Release/Lebara.BusinessEventNotification.UKHandler.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.UKHandler/obj/Release
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.UKHandler/obj/Debug/Lebara.BusinessEventNotification.UKHandler.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.UKHandler/obj/Debug
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.UKHandler/obj
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.SpainHandler/obj/Release/Lebara.BusinessEventNotification.SpainHandler.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.SpainHandler/obj/Release
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.SpainHandler/obj/Debug/Lebara.BusinessEventNotification.SpainHandler.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.SpainHandler/obj/Debug
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.SpainHandler/obj
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.SIMUpdate/obj/Release/Lebara.BusinessEventNotification.SIMUpdate.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.SIMUpdate/obj/Release
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.SIMUpdate/obj/Debug/Lebara.BusinessEventNotification.SIMUpdate.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.SIMUpdate/obj/Debug
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.SIMUpdate/obj
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.RIGBENEvent/obj/Release/Lebara.BusinessEventNotification.RIGBENEvent.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.RIGBENEvent/obj/Release
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.RIGBENEvent/obj/Debug/Lebara.BusinessEventNotification.RIGBENEvent.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.RIGBENEvent/obj/Debug
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.RIGBENEvent/obj
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.MNP/obj/Release/Lebara.BusinessEventNotification.MNP.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.MNP/obj/Release
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.MNP/obj/Debug/Lebara.BusinessEventNotification.MNP.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.MNP/obj/Debug
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.MNP/obj
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.Contracts/obj/Release/Lebara.BusinessEventNotification.Contracts.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.Contracts/obj/Release
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.Contracts/obj/Debug/Lebara.BusinessEventNotification.Contracts.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.Contracts/obj/Debug
+/Lebara.BusinesEventNotification/Lebara.BusinessEventNotification.Contracts/obj
+/Lebara.BusinesEventNotification/Lebara.BusinesEventNotification/obj/Release/Lebara.BusinesEventNotification.WCF.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/Lebara.BusinesEventNotification/obj/Release
+/Lebara.BusinesEventNotification/Lebara.BusinesEventNotification/obj/Debug/Lebara.BusinesEventNotification.WCF.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/Lebara.BusinesEventNotification/obj/Debug
+/Lebara.BusinesEventNotification/Lebara.BusinesEventNotification/obj
+/Lebara.BusinesEventNotification/FeedSwapsTask/obj/Release/FeedSwapsTask.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/FeedSwapsTask/obj/Release
+/Lebara.BusinesEventNotification/FeedSwapsTask/obj/Debug/FeedSwapsTask.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/FeedSwapsTask/obj/Debug
+/Lebara.BusinesEventNotification/FeedSwapsTask/obj
+/Lebara.BusinesEventNotification/DESIMReactivation/obj/Release/DESIMReactivation.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/DESIMReactivation/obj/Release
+/Lebara.BusinesEventNotification/DESIMReactivation/obj/Debug/DESIMReactivation.csproj.CoreCompileInputs.cache
+/Lebara.BusinesEventNotification/DESIMReactivation/obj/Debug
+/Lebara.BusinesEventNotification/DESIMReactivation/obj
+/Lebara.BusinesEventNotification
+/Lebara.BundleManager.Utils/BundleManagerUtility/BundleManagerUtilitie/obj/Release/BundleManagerUtilitie.csproj.CoreCompileInputs.cache
+/Lebara.BundleManager.Utils/BundleManagerUtility/BundleManagerUtilitie/obj/Release
+/Lebara.BundleManager.Utils/BundleManagerUtility/BundleManagerUtilitie/obj/Debug/BundleManagerUtilitie.csproj.CoreCompileInputs.cache
+/Lebara.BundleManager.Utils/BundleManagerUtility/BundleManagerUtilitie/obj/Debug
+/Lebara.BundleManager.Utils/BundleManagerUtility/BundleManagerUtilitie/obj
+/Lebara.BundleIntegration.Win.Service-CV2.test/Lebara.BundleIntegration.Win.Service.TestApp1/obj/Release/Lebara.BundleIntegration.Win.Service.TestApp1.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service-CV2.test/Lebara.BundleIntegration.Win.Service.TestApp1/obj/Release
+/Lebara.BundleIntegration.Win.Service-CV2.test/Lebara.BundleIntegration.Win.Service.TestApp1/obj/Debug/Lebara.BundleIntegration.Win.Service.TestApp1.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service-CV2.test/Lebara.BundleIntegration.Win.Service.TestApp1/obj/Debug
+/Lebara.BundleIntegration.Win.Service-CV2.test/Lebara.BundleIntegration.Win.Service.TestApp1/obj
+/Lebara.BundleIntegration.Win.Service-CV2.test/Lebara.BundleIntegration.Win.Service.BLL/obj/Release/Lebara.BundleIntegration.Win.Service.BLL.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service-CV2.test/Lebara.BundleIntegration.Win.Service.BLL/obj/Release
+/Lebara.BundleIntegration.Win.Service-CV2.test/Lebara.BundleIntegration.Win.Service.BLL/obj/Debug/Lebara.BundleIntegration.Win.Service.BLL.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service-CV2.test/Lebara.BundleIntegration.Win.Service.BLL/obj/Debug
+/Lebara.BundleIntegration.Win.Service-CV2.test/Lebara.BundleIntegration.Win.Service.BLL/obj
+/Lebara.BundleIntegration.Win.Service-CV2.test/Lebara.BundleIntegration.Win.Service/obj/Release/Lebara.BundleIntegration.Win.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service-CV2.test/Lebara.BundleIntegration.Win.Service/obj/Release
+/Lebara.BundleIntegration.Win.Service-CV2.test/Lebara.BundleIntegration.Win.Service/obj/Debug/Lebara.BundleIntegration.Win.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service-CV2.test/Lebara.BundleIntegration.Win.Service/obj/Debug
+/Lebara.BundleIntegration.Win.Service-CV2.test/Lebara.BundleIntegration.Win.Service/obj
+/Lebara.BundleIntegration.Win.Service-CV2.test
+/Lebara.BundleIntegration.Win.Service-CV2.dev/Lebara.BundleIntegration.Win.Service.TestApp1/obj/Release/Lebara.BundleIntegration.Win.Service.TestApp1.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service-CV2.dev/Lebara.BundleIntegration.Win.Service.TestApp1/obj/Release
+/Lebara.BundleIntegration.Win.Service-CV2.dev/Lebara.BundleIntegration.Win.Service.TestApp1/obj/Debug/Lebara.BundleIntegration.Win.Service.TestApp1.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service-CV2.dev/Lebara.BundleIntegration.Win.Service.TestApp1/obj/Debug
+/Lebara.BundleIntegration.Win.Service-CV2.dev/Lebara.BundleIntegration.Win.Service.TestApp1/obj
+/Lebara.BundleIntegration.Win.Service-CV2.dev/Lebara.BundleIntegration.Win.Service.BLL/obj/Release/Lebara.BundleIntegration.Win.Service.BLL.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service-CV2.dev/Lebara.BundleIntegration.Win.Service.BLL/obj/Release
+/Lebara.BundleIntegration.Win.Service-CV2.dev/Lebara.BundleIntegration.Win.Service.BLL/obj/Debug/Lebara.BundleIntegration.Win.Service.BLL.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service-CV2.dev/Lebara.BundleIntegration.Win.Service.BLL/obj/Debug
+/Lebara.BundleIntegration.Win.Service-CV2.dev/Lebara.BundleIntegration.Win.Service.BLL/obj
+/Lebara.BundleIntegration.Win.Service-CV2.dev/Lebara.BundleIntegration.Win.Service/obj/Release/Lebara.BundleIntegration.Win.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service-CV2.dev/Lebara.BundleIntegration.Win.Service/obj/Release
+/Lebara.BundleIntegration.Win.Service-CV2.dev/Lebara.BundleIntegration.Win.Service/obj/Debug/Lebara.BundleIntegration.Win.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service-CV2.dev/Lebara.BundleIntegration.Win.Service/obj/Debug
+/Lebara.BundleIntegration.Win.Service-CV2.dev/Lebara.BundleIntegration.Win.Service/obj
+/Lebara.BundleIntegration.Win.Service-CV2.dev
+/Lebara.BundleIntegration.Win.Service-CV2/Lebara.BundleIntegration.Win.Service.TestApp1/obj/Release/Lebara.BundleIntegration.Win.Service.TestApp1.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service-CV2/Lebara.BundleIntegration.Win.Service.TestApp1/obj/Release
+/Lebara.BundleIntegration.Win.Service-CV2/Lebara.BundleIntegration.Win.Service.TestApp1/obj/Debug/Lebara.BundleIntegration.Win.Service.TestApp1.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service-CV2/Lebara.BundleIntegration.Win.Service.TestApp1/obj/Debug
+/Lebara.BundleIntegration.Win.Service-CV2/Lebara.BundleIntegration.Win.Service.TestApp1/obj
+/Lebara.BundleIntegration.Win.Service-CV2/Lebara.BundleIntegration.Win.Service.BLL/obj/Release/Lebara.BundleIntegration.Win.Service.BLL.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service-CV2/Lebara.BundleIntegration.Win.Service.BLL/obj/Release
+/Lebara.BundleIntegration.Win.Service-CV2/Lebara.BundleIntegration.Win.Service.BLL/obj/Debug/Lebara.BundleIntegration.Win.Service.BLL.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service-CV2/Lebara.BundleIntegration.Win.Service.BLL/obj/Debug
+/Lebara.BundleIntegration.Win.Service-CV2/Lebara.BundleIntegration.Win.Service.BLL/obj
+/Lebara.BundleIntegration.Win.Service-CV2/Lebara.BundleIntegration.Win.Service/obj/Release/Lebara.BundleIntegration.Win.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service-CV2/Lebara.BundleIntegration.Win.Service/obj/Release
+/Lebara.BundleIntegration.Win.Service-CV2/Lebara.BundleIntegration.Win.Service/obj/Debug/Lebara.BundleIntegration.Win.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service-CV2/Lebara.BundleIntegration.Win.Service/obj/Debug
+/Lebara.BundleIntegration.Win.Service-CV2/Lebara.BundleIntegration.Win.Service/obj
+/Lebara.BundleIntegration.Win.Service-CV2
+/Lebara.BundleIntegration.Win.Service/Lebara.BundleIntegration.Win.Service.TestApp1/obj/Release/Lebara.BundleIntegration.Win.Service.TestApp1.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service/Lebara.BundleIntegration.Win.Service.TestApp1/obj/Release
+/Lebara.BundleIntegration.Win.Service/Lebara.BundleIntegration.Win.Service.TestApp1/obj/Debug/Lebara.BundleIntegration.Win.Service.TestApp1.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service/Lebara.BundleIntegration.Win.Service.TestApp1/obj/Debug
+/Lebara.BundleIntegration.Win.Service/Lebara.BundleIntegration.Win.Service.TestApp1/obj
+/Lebara.BundleIntegration.Win.Service/Lebara.BundleIntegration.Win.Service.BLL/obj/Release/Lebara.BundleIntegration.Win.Service.BLL.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service/Lebara.BundleIntegration.Win.Service.BLL/obj/Release
+/Lebara.BundleIntegration.Win.Service/Lebara.BundleIntegration.Win.Service.BLL/obj/Debug/Lebara.BundleIntegration.Win.Service.BLL.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service/Lebara.BundleIntegration.Win.Service.BLL/obj/Debug
+/Lebara.BundleIntegration.Win.Service/Lebara.BundleIntegration.Win.Service.BLL/obj
+/Lebara.BundleIntegration.Win.Service/Lebara.BundleIntegration.Win.Service/obj/Release/Lebara.BundleIntegration.Win.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service/Lebara.BundleIntegration.Win.Service/obj/Release
+/Lebara.BundleIntegration.Win.Service/Lebara.BundleIntegration.Win.Service/obj/Debug/Lebara.BundleIntegration.Win.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Win.Service/Lebara.BundleIntegration.Win.Service/obj/Debug
+/Lebara.BundleIntegration.Win.Service/Lebara.BundleIntegration.Win.Service/obj
+/Lebara.BundleIntegration.Win.Service
+/Lebara.BundleIntegration.Web.ServiceV2.test/Lebara.BundleIntegration.Web.Service.Test/obj/Release/Lebara.BundleIntegration.Web.Service.Test.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2.test/Lebara.BundleIntegration.Web.Service.Test/obj/Release
+/Lebara.BundleIntegration.Web.ServiceV2.test/Lebara.BundleIntegration.Web.Service.Test/obj/Debug/Lebara.BundleIntegration.Web.Service.Test.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2.test/Lebara.BundleIntegration.Web.Service.Test/obj/Debug
+/Lebara.BundleIntegration.Web.ServiceV2.test/Lebara.BundleIntegration.Web.Service.Test/obj
+/Lebara.BundleIntegration.Web.ServiceV2.test/Lebara.BundleIntegration.Web.Service.Invoker/obj/Release/Lebara.BundleIntegration.Web.Service.Invoker.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2.test/Lebara.BundleIntegration.Web.Service.Invoker/obj/Release
+/Lebara.BundleIntegration.Web.ServiceV2.test/Lebara.BundleIntegration.Web.Service.Invoker/obj/Debug/Lebara.BundleIntegration.Web.Service.Invoker.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2.test/Lebara.BundleIntegration.Web.Service.Invoker/obj/Debug
+/Lebara.BundleIntegration.Web.ServiceV2.test/Lebara.BundleIntegration.Web.Service.Invoker/obj
+/Lebara.BundleIntegration.Web.ServiceV2.test/Lebara.BundleIntegration.Web.Service/obj/Release/Lebara.BundleIntegration.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2.test/Lebara.BundleIntegration.Web.Service/obj/Release
+/Lebara.BundleIntegration.Web.ServiceV2.test/Lebara.BundleIntegration.Web.Service/obj/Debug/Lebara.BundleIntegration.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2.test/Lebara.BundleIntegration.Web.Service/obj/Debug
+/Lebara.BundleIntegration.Web.ServiceV2.test/Lebara.BundleIntegration.Web.Service/obj
+/Lebara.BundleIntegration.Web.ServiceV2.test
+/Lebara.BundleIntegration.Web.ServiceV2.dev/Lebara.BundleIntegration.Web.Service.Test/obj/Release/Lebara.BundleIntegration.Web.Service.Test.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2.dev/Lebara.BundleIntegration.Web.Service.Test/obj/Release
+/Lebara.BundleIntegration.Web.ServiceV2.dev/Lebara.BundleIntegration.Web.Service.Test/obj/Debug/Lebara.BundleIntegration.Web.Service.Test.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2.dev/Lebara.BundleIntegration.Web.Service.Test/obj/Debug
+/Lebara.BundleIntegration.Web.ServiceV2.dev/Lebara.BundleIntegration.Web.Service.Test/obj
+/Lebara.BundleIntegration.Web.ServiceV2.dev/Lebara.BundleIntegration.Web.Service.Invoker/obj/Release/Lebara.BundleIntegration.Web.Service.Invoker.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2.dev/Lebara.BundleIntegration.Web.Service.Invoker/obj/Release
+/Lebara.BundleIntegration.Web.ServiceV2.dev/Lebara.BundleIntegration.Web.Service.Invoker/obj/Debug/Lebara.BundleIntegration.Web.Service.Invoker.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2.dev/Lebara.BundleIntegration.Web.Service.Invoker/obj/Debug
+/Lebara.BundleIntegration.Web.ServiceV2.dev/Lebara.BundleIntegration.Web.Service.Invoker/obj
+/Lebara.BundleIntegration.Web.ServiceV2.dev/Lebara.BundleIntegration.Web.Service/obj/Release/Lebara.BundleIntegration.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2.dev/Lebara.BundleIntegration.Web.Service/obj/Release
+/Lebara.BundleIntegration.Web.ServiceV2.dev/Lebara.BundleIntegration.Web.Service/obj/Debug/Lebara.BundleIntegration.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2.dev/Lebara.BundleIntegration.Web.Service/obj/Debug
+/Lebara.BundleIntegration.Web.ServiceV2.dev/Lebara.BundleIntegration.Web.Service/obj
+/Lebara.BundleIntegration.Web.ServiceV2.dev
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.test/Lebara.BundleIntegration.Web.Service.Test/obj/Release/Lebara.BundleIntegration.Web.Service.Test.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.test/Lebara.BundleIntegration.Web.Service.Test/obj/Release
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.test/Lebara.BundleIntegration.Web.Service.Test/obj/Debug/Lebara.BundleIntegration.Web.Service.Test.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.test/Lebara.BundleIntegration.Web.Service.Test/obj/Debug
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.test/Lebara.BundleIntegration.Web.Service.Test/obj
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.test/Lebara.BundleIntegration.Web.Service.Invoker/obj/Release/Lebara.BundleIntegration.Web.Service.Invoker.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.test/Lebara.BundleIntegration.Web.Service.Invoker/obj/Release
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.test/Lebara.BundleIntegration.Web.Service.Invoker/obj/Debug/Lebara.BundleIntegration.Web.Service.Invoker.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.test/Lebara.BundleIntegration.Web.Service.Invoker/obj/Debug
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.test/Lebara.BundleIntegration.Web.Service.Invoker/obj
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.test/Lebara.BundleIntegration.Web.Service/obj/Release/Lebara.BundleIntegration.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.test/Lebara.BundleIntegration.Web.Service/obj/Release
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.test/Lebara.BundleIntegration.Web.Service/obj/Debug/Lebara.BundleIntegration.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.test/Lebara.BundleIntegration.Web.Service/obj/Debug
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.test/Lebara.BundleIntegration.Web.Service/obj
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.test
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.dev/Lebara.BundleIntegration.Web.Service.Test/obj/Release/Lebara.BundleIntegration.Web.Service.Test.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.dev/Lebara.BundleIntegration.Web.Service.Test/obj/Release
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.dev/Lebara.BundleIntegration.Web.Service.Test/obj/Debug/Lebara.BundleIntegration.Web.Service.Test.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.dev/Lebara.BundleIntegration.Web.Service.Test/obj/Debug
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.dev/Lebara.BundleIntegration.Web.Service.Test/obj
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.dev/Lebara.BundleIntegration.Web.Service.Invoker/obj/Release/Lebara.BundleIntegration.Web.Service.Invoker.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.dev/Lebara.BundleIntegration.Web.Service.Invoker/obj/Release
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.dev/Lebara.BundleIntegration.Web.Service.Invoker/obj/Debug/Lebara.BundleIntegration.Web.Service.Invoker.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.dev/Lebara.BundleIntegration.Web.Service.Invoker/obj/Debug
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.dev/Lebara.BundleIntegration.Web.Service.Invoker/obj
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.dev/Lebara.BundleIntegration.Web.Service/obj/Release/Lebara.BundleIntegration.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.dev/Lebara.BundleIntegration.Web.Service/obj/Release
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.dev/Lebara.BundleIntegration.Web.Service/obj/Debug/Lebara.BundleIntegration.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.dev/Lebara.BundleIntegration.Web.Service/obj/Debug
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.dev/Lebara.BundleIntegration.Web.Service/obj
+/Lebara.BundleIntegration.Web.ServiceV2-CV2.dev
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.Web.Service.Test/obj/Release/Lebara.BundleIntegration.Web.Service.Test.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.Web.Service.Test/obj/Release
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.Web.Service.Test/obj/Debug/Lebara.BundleIntegration.Web.Service.Test.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.Web.Service.Test/obj/Debug
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.Web.Service.Test/obj
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.Web.Service.Invoker/obj/Release/Lebara.BundleIntegration.Web.Service.Invoker.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.Web.Service.Invoker/obj/Release
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.Web.Service.Invoker/obj/Debug/Lebara.BundleIntegration.Web.Service.Invoker.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.Web.Service.Invoker/obj/Debug
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.Web.Service.Invoker/obj
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.Web.Service/obj/Release/Lebara.BundleIntegration.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.Web.Service/obj/Release
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.Web.Service/obj/Debug/Lebara.BundleIntegration.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.Web.Service/obj/Debug
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.Web.Service/obj
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.TestingFramework/obj/Release/Lebara.BundleIntegration.TestingFramework.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.TestingFramework/obj/Release
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.TestingFramework/obj/Debug/Lebara.BundleIntegration.TestingFramework.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.TestingFramework/obj/Debug
+/Lebara.BundleIntegration.Web.ServiceV2-CV2/Lebara.BundleIntegration.TestingFramework/obj
+/Lebara.BundleIntegration.Web.ServiceV2/Lebara.BundleIntegration.Web.Service.Test/obj/Release/Lebara.BundleIntegration.Web.Service.Test.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2/Lebara.BundleIntegration.Web.Service.Test/obj/Release
+/Lebara.BundleIntegration.Web.ServiceV2/Lebara.BundleIntegration.Web.Service.Test/obj/Debug/Lebara.BundleIntegration.Web.Service.Test.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2/Lebara.BundleIntegration.Web.Service.Test/obj/Debug
+/Lebara.BundleIntegration.Web.ServiceV2/Lebara.BundleIntegration.Web.Service.Test/obj
+/Lebara.BundleIntegration.Web.ServiceV2/Lebara.BundleIntegration.Web.Service.Invoker/obj/Release/Lebara.BundleIntegration.Web.Service.Invoker.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2/Lebara.BundleIntegration.Web.Service.Invoker/obj/Release
+/Lebara.BundleIntegration.Web.ServiceV2/Lebara.BundleIntegration.Web.Service.Invoker/obj/Debug/Lebara.BundleIntegration.Web.Service.Invoker.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2/Lebara.BundleIntegration.Web.Service.Invoker/obj/Debug
+/Lebara.BundleIntegration.Web.ServiceV2/Lebara.BundleIntegration.Web.Service.Invoker/obj
+/Lebara.BundleIntegration.Web.ServiceV2/Lebara.BundleIntegration.Web.Service/obj/Release/Lebara.BundleIntegration.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2/Lebara.BundleIntegration.Web.Service/obj/Release
+/Lebara.BundleIntegration.Web.ServiceV2/Lebara.BundleIntegration.Web.Service/obj/Debug/Lebara.BundleIntegration.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.ServiceV2/Lebara.BundleIntegration.Web.Service/obj/Debug
+/Lebara.BundleIntegration.Web.ServiceV2/Lebara.BundleIntegration.Web.Service/obj
+/Lebara.BundleIntegration.Web.ServiceV2
+/Lebara.BundleIntegration.Web.Service/Lebara.BundleIntegration.Web.Service/obj/Release/Lebara.BundleIntegration.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.Service/Lebara.BundleIntegration.Web.Service/obj/Release
+/Lebara.BundleIntegration.Web.Service/Lebara.BundleIntegration.Web.Service/obj/Debug/Lebara.BundleIntegration.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.Service/Lebara.BundleIntegration.Web.Service/obj/Debug
+/Lebara.BundleIntegration.Web.Service/Lebara.BundleIntegration.Web.Service/obj
+/Lebara.BundleIntegration.Web.Service/Lebara.BundleIntegration.Web.Service/Lebara.BundleIntegration.Web.Service/obj/Release/Lebara.BundleIntegration.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.Service/Lebara.BundleIntegration.Web.Service/Lebara.BundleIntegration.Web.Service/obj/Release
+/Lebara.BundleIntegration.Web.Service/Lebara.BundleIntegration.Web.Service/Lebara.BundleIntegration.Web.Service/obj/Debug/Lebara.BundleIntegration.Web.Service.csproj.CoreCompileInputs.cache
+/Lebara.BundleIntegration.Web.Service/Lebara.BundleIntegration.Web.Service/Lebara.BundleIntegration.Web.Service/obj/Debug
+/Lebara.BundleIntegration.Web.Service/Lebara.BundleIntegration.Web.Service/Lebara.BundleIntegration.Web.Service/obj
+/Lebara.BundleIntegration.Web.Service/Lebara.BundleIntegration.Web.Service
+/Lebara.AxwayLB/PopulateMissingRequestType/obj/Release/PopulateMissingRequestType.csproj.CoreCompileInputs.cache
+/Lebara.AxwayLB/PopulateMissingRequestType/obj/Release
+/Lebara.AxwayLB/PopulateMissingRequestType/obj/Debug/PopulateMissingRequestType.csproj.CoreCompileInputs.cache
+/Lebara.AxwayLB/PopulateMissingRequestType/obj/Debug
+/Lebara.AxwayLB/PopulateMissingRequestType/obj
+/Lebara.AxwayLB/MongoArchivingUtility/obj/Release/MongoArchivingUtility.csproj.CoreCompileInputs.cache
+/Lebara.AxwayLB/MongoArchivingUtility/obj/Release
+/Lebara.AxwayLB/MongoArchivingUtility/obj/Debug/MongoArchivingUtility.csproj.CoreCompileInputs.cache
+/Lebara.AxwayLB/MongoArchivingUtility/obj/Debug
+/Lebara.AxwayLB/MongoArchivingUtility/obj
+/Lebara.AxwayLB/Lebara.AxwayLB.Common/obj/Release/Lebara.AxwayLB.Common.csproj.CoreCompileInputs.cache
+/Lebara.AxwayLB/Lebara.AxwayLB.Common/obj/Release
+/Lebara.AxwayLB/Lebara.AxwayLB.Common/obj/Debug/Lebara.AxwayLB.Common.csproj.CoreCompileInputs.cache
+/Lebara.AxwayLB/Lebara.AxwayLB.Common/obj/Debug
+/Lebara.AxwayLB/Lebara.AxwayLB.Common/obj
+/Lebara.AxwayLB/Lebara.AxwayLB/obj/Release/Lebara.AxwayLB.csproj.CoreCompileInputs.cache
+/Lebara.AxwayLB/Lebara.AxwayLB/obj/Release
+/Lebara.AxwayLB/Lebara.AxwayLB/obj/Debug/Lebara.AxwayLB.csproj.CoreCompileInputs.cache
+/Lebara.AxwayLB/Lebara.AxwayLB/obj/Debug
+/Lebara.AxwayLB/Lebara.AxwayLB/obj
+/Lebara.AxwayLB
+/Lebara.AutoTopUp.Win.Service/Test/obj/Release/Test.csproj.CoreCompileInputs.cache
+/Lebara.AutoTopUp.Win.Service/Test/obj/Release
+/Lebara.AutoTopUp.Win.Service/Test/obj/Debug/Test.csproj.CoreCompileInputs.cache
+/Lebara.AutoTopUp.Win.Service/Test/obj/Debug
+/Lebara.AutoTopUp.Win.Service/Test/obj
+/Lebara.AutoTopUp.Win.Service/Lebara.AutoTopUp.Win.Service/obj/Release/Lebara.AutoTopUp.Win.Service.csproj.CoreCompileInputs.cache
+/Lebara.AutoTopUp.Win.Service/Lebara.AutoTopUp.Win.Service/obj/Release
+/Lebara.AutoTopUp.Win.Service/Lebara.AutoTopUp.Win.Service/obj/Debug/Lebara.AutoTopUp.Win.Service.csproj.CoreCompileInputs.cache
+/Lebara.AutoTopUp.Win.Service/Lebara.AutoTopUp.Win.Service/obj/Debug
+/Lebara.AutoTopUp.Win.Service/Lebara.AutoTopUp.Win.Service/obj
+/Lebara.AutoTopUp.Win.Service/Lebara.AutoTopUp.Win.Common.BLL/obj/Release/Lebara.AutoTopUp.Win.Common.BLL.csproj.CoreCompileInputs.cache
+/Lebara.AutoTopUp.Win.Service/Lebara.AutoTopUp.Win.Common.BLL/obj/Release
+/Lebara.AutoTopUp.Win.Service/Lebara.AutoTopUp.Win.Common.BLL/obj/Debug/Lebara.AutoTopUp.Win.Common.BLL.csproj.CoreCompileInputs.cache
+/Lebara.AutoTopUp.Win.Service/Lebara.AutoTopUp.Win.Common.BLL/obj/Debug
+/Lebara.AutoTopUp.Win.Service/Lebara.AutoTopUp.Win.Common.BLL/obj
+/Lebara.AutoTopUp.Win.Service
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/WholeSaleOptimizationLogic_UnitTest/obj/Release/WholeSaleOptimizationLogic_UnitTest.csproj.CoreCompileInputs.cache
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/WholeSaleOptimizationLogic_UnitTest/obj/Release
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/WholeSaleOptimizationLogic_UnitTest/obj/Debug/WholeSaleOptimizationLogic_UnitTest.csproj.CoreCompileInputs.cache
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/WholeSaleOptimizationLogic_UnitTest/obj/Debug
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/WholeSaleOptimizationLogic_UnitTest/obj
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/WholeSaleOptimizationLogic/obj/Release/WholeSaleOptimizationLogic.csproj.CoreCompileInputs.cache
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/WholeSaleOptimizationLogic/obj/Release
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/WholeSaleOptimizationLogic/obj/Debug/WholeSaleOptimizationLogic.csproj.CoreCompileInputs.cache
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/WholeSaleOptimizationLogic/obj/Debug
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/WholeSaleOptimizationLogic/obj
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/NewOfferWholeSale_Test/obj/Release/NewOfferWholeSale_Test.csproj.CoreCompileInputs.cache
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/NewOfferWholeSale_Test/obj/Release
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/NewOfferWholeSale_Test/obj/Debug/NewOfferWholeSale_Test.csproj.CoreCompileInputs.cache
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/NewOfferWholeSale_Test/obj/Debug
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/NewOfferWholeSale_Test/obj
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/Logger/obj/Release/Logger.csproj.CoreCompileInputs.cache
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/Logger/obj/Release
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/Logger/obj/Debug/Logger.csproj.CoreCompileInputs.cache
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/Logger/obj/Debug
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/Logger/obj
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/obj/Release/DE_PayAsYouGo_WholeSale_Optimization.Win.Service.csproj.CoreCompileInputs.cache
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/obj/Release
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/obj/Debug/DE_PayAsYouGo_WholeSale_Optimization.Win.Service.csproj.CoreCompileInputs.cache
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/obj/Debug
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/obj
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/DataAccessLayerInvoker/obj/Release/DataAccessLayerInvoker.csproj.CoreCompileInputs.cache
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/DataAccessLayerInvoker/obj/Release
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/DataAccessLayerInvoker/obj/Debug/DataAccessLayerInvoker.csproj.CoreCompileInputs.cache
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/DataAccessLayerInvoker/obj/Debug
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/DataAccessLayerInvoker/obj
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/DataAccessLayer/obj/Release/DataAccessLayer.csproj.CoreCompileInputs.cache
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/DataAccessLayer/obj/Release
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/DataAccessLayer/obj/Debug/DataAccessLayer.csproj.CoreCompileInputs.cache
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/DataAccessLayer/obj/Debug
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization/DataAccessLayer/obj
+/DE_Projects/DE_PayAsYouGo_WholeSale_Optimization/DE_PayAsYouGo_WholeSale_Optimization
+/DERegistration/DERegistration/Lebara.De.RegistrationService/Lebara.De.RegistrationService/obj/Release/Lebara.De.RegistrationService.csproj.CoreCompileInputs.cache
+/DERegistration/DERegistration/Lebara.De.RegistrationService/Lebara.De.RegistrationService/obj/Release
+/DERegistration/DERegistration/Lebara.De.RegistrationService/Lebara.De.RegistrationService/obj/Debug/Lebara.De.RegistrationService.csproj.CoreCompileInputs.cache
+/DERegistration/DERegistration/Lebara.De.RegistrationService/Lebara.De.RegistrationService/obj/Debug
+/DERegistration/DERegistration/Lebara.De.RegistrationService/Lebara.De.RegistrationService/obj
+/DenmarkASP_Application/DenmarkASP_Application/obj/Release/DenmarkASP_Application.csproj.CoreCompileInputs.cache
+/DenmarkASP_Application/DenmarkASP_Application/obj/Release
+/DenmarkASP_Application/DenmarkASP_Application/obj/Debug/DenmarkASP_Application.csproj.CoreCompileInputs.cache
+/DenmarkASP_Application/DenmarkASP_Application/obj/Debug
+/DenmarkASP_Application/DenmarkASP_Application/obj
