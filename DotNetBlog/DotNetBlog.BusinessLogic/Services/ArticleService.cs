@@ -15,7 +15,7 @@ namespace DotNetBlog.BusinessLogic.Services
 
         public ArticleService(IUnitOfWork unitOfWork)
         {
-            this.unitOfWork = unitOfWork;           
+            this.unitOfWork = unitOfWork;
         }
 
         public async Task CreateAsync(Article article)
@@ -26,8 +26,8 @@ namespace DotNetBlog.BusinessLogic.Services
 
         public async Task<ICollection<Article>> GetArticlesByTitleAsync(string title)
         {
-            var articleSpecification = new GetArticleSpecification(title);
-            var article = await unitOfWork.Set<Article>().FindAsync(articleSpecification);
+            var articleSpecification = new GetArticleByTitleSpecification(title);
+            var article = unitOfWork.Set<Article>().FindAsync(articleSpecification);
 
             return (ICollection<Article>)article;
         }
@@ -41,7 +41,9 @@ namespace DotNetBlog.BusinessLogic.Services
         public async Task<ICollection<Article>> GetMostRatedArticlesAsync()
         {
             var articles = await unitOfWork.Set<Article>().GetAsync();
-            return (ICollection<Article>)articles.OrderByDescending(article => article.Likes).Take(3);    
+            var t = (ICollection<Article>)articles.OrderByDescending(article => article.Likes).Take(3).ToList();
+
+            return t;
         }
 
         public async Task UpdateAsync(Article article)
@@ -53,23 +55,26 @@ namespace DotNetBlog.BusinessLogic.Services
         public async Task<ICollection<Article>> GetNewestArticlesAsync()
         {
             var articles = await unitOfWork.Set<Article>().GetAsync();
-            return (ICollection<Article>)articles.OrderByDescending(article => article.CreationDate).Take(3);
+            return (ICollection<Article>)articles.OrderByDescending(article => article.CreationDate).Take(3).ToList();
         }
 
         public async Task<ICollection<Article>> GetAsync()
         {
             return await unitOfWork.Set<Article>().GetAsync();
         }
-
-        public Task<Article> GetArticleByIdAsync(int? id)
-        {
-            throw new System.NotImplementedException();
-        }
-
+   
         public async Task DeleteAsync(Article article)
         {
             unitOfWork.Set<Article>().Delete(article);
             await unitOfWork.SaveChangesAsync();
+        }
+
+        public async Task<Article> GetArticleByIdAsync(int? id)
+        {
+            var articleSpecification = new GetArticleByIdSpecification(id);
+            var article = unitOfWork.Set<Article>().FindAsync(articleSpecification);
+
+            return article.FirstOrDefault();
         }
     }
 }

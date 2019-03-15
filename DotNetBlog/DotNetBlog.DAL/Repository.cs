@@ -45,10 +45,9 @@ namespace DotNetBlog.DAL
             await context.SaveChangesAsync();
         }
 
-        public Task<IQueryable<T>> FindAsync(Specification<T> specification)
+        public IQueryable<T> FindAsync(Specification<T> specification)
         {
-           // return context.Set<T>().Where(async (item) => await specification.IsSatisfiedByAsync(item));//????
-            throw new System.NotImplementedException();
+            return context.Set<T>().Where((item) => specification.IsSatisfiedByAsync(item).Result);//????                    
         }
     }
 }

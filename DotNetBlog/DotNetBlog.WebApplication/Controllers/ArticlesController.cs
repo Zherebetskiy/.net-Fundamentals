@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using DotNetBlog.Abstractions.Models;
-using DotNetBlog.DAL;
 using DotNetBlog.BusinessLogic.Interfaces;
 using Serilog;
 
@@ -53,7 +50,7 @@ namespace DotNetBlog.WebApplication.Controllers
         public async Task<IActionResult> Create()
         {
             var topics = await topicService.GetTopicsAsync();
-            ViewData["TopicId"] = new SelectList(topics.ToList(), "Id", "Id");
+            ViewData["Topic"] = new SelectList(topics.ToList(), "Name", "Name");
             return View();
         }
 
@@ -69,7 +66,7 @@ namespace DotNetBlog.WebApplication.Controllers
                 await articleService.CreateAsync(article);
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["TopicId"] = new SelectList(topics.ToList(), "Id", "Id", article.TopicId);
+            ViewData["Topic"] = new SelectList(topics.ToList(), "Name", "Name", article.Topic.Name);
             return View(article);
         }
 
@@ -87,7 +84,7 @@ namespace DotNetBlog.WebApplication.Controllers
             {
                 return NotFound();
             }
-            ViewData["TopicId"] = new SelectList(topics.ToList(), "Id", "Id", article.TopicId);
+            ViewData["Topic"] = new SelectList(topics.ToList(), "Name", "Name", article.Topic.Name);
             return View(article);
         }
 
@@ -121,7 +118,7 @@ namespace DotNetBlog.WebApplication.Controllers
                 return RedirectToAction(nameof(Index));
             }
             var topics = await topicService.GetTopicsAsync();
-            ViewData["TopicId"] = new SelectList(topics.ToList(), "Id", "Id", article.TopicId);
+            ViewData["TopicId"] = new SelectList(topics.ToList(), "Name", "Name", article.Topic.Name);
             return View(article);
         }
 

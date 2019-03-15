@@ -7,7 +7,7 @@ namespace DotNetBlog.Abstractions.Interfaces
 {
     public interface IRepository<T> where T : BaseEntity
     {
-        Task<IQueryable<T>> FindAsync(Specification<T> specification);
+        IQueryable<T> FindAsync(Specification<T> specification);
 
         Task<ICollection<T>> GetAsync();
 
